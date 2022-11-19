@@ -1,0 +1,1588 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "2nB1SQFs4p0y0Dgw3NOe-a6-63k",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "a--5qEeYu-heCSPaIbKy3bhhSbM",
+      "id": "MgxyLV31-vM",
+      "snippet": {
+        "publishedAt": "2022-11-15T22:02:41Z",
+        "channelId": "UCV9_KinVpV-snHe3C3n1hvA",
+        "title": "The End Of Jeffree Star and Shane Dawson",
+        "description": "Please SUBSCRIBE and BINGE THE WHOLE SERIES https://www.youtube.com/watch?v=s3WFAONOFhs&list=PLDs0tNoNYTz05R0xo7PCVc-RgL2fsJnGg\n\nThank you to RIDGE! Check out their wallets here!!   https://ridge.com/shane\n\nNEW MERCH! https://www.shanedawsonmerch.com/\n\nCheck out THE NEW PODCAST! https://www.youtube.com/watch?v=TCatklmGGnk&list=PLUquvWuWlOaO3a04sl86i63y6LQqn1UIx\nShane Dawson Podcast Channel  @Shane2   \nPODCAST IG https://www.instagram.com/shanedawsonpodcast/?hl=en \n\nMy SNAPCHAT LOLShaneDawson\nMy TikTok https://www.tiktok.com/@shanedawson\nMy IG https://www.instagram.com/shanedawson/?hl=en\n\nCheck out all of my JEFFREE STAR SERIES here! \nhttps://www.youtube.com/watch?v=JWukx3HGBKI&list=PLDs0tNoNYTz05R0xo7PCVc-RgL2fsJnGg\n\nThe New World of Jeffree Star SPOTIFY PLAYLIST \nI made a Spotify Playlist of all the music featured in this series!\nhttps://open.spotify.com/playlist/2guWmSppQ6wvHrQ1j2ajE7?si=ZT5y1F5ZQSmaKbFo4EEOmQ\n\nJeffree Star  @jeffreestar   \nhttps://www.instagram.com/jeffreestar/?hl=en\nhttps://www.tiktok.com/@jeffreestar \n\nRyland’s Vlogs  @Ryland vlogs \nRyland’s Main Channel  @Ryland Adams  \nRyland’s Podcast   @The Sip with Ryland Adams and Lizze Gordon  \nRyland’s Instagram https://www.instagram.com/rylandadams/?hl=en\nRyland’s Tik Tok https://www.tiktok.com/@rylandadams\n\nChris’s Channel  @ChrisBstation \nChris’s Instagram https://www.instagram.com/chrisbstation/?hl=en\n\nMaddie \nhttps://instagram.com/maddietaylorr?igshid=YmMyMTA2M2Y=\n\nJaquline \nhttps://instagram.com/jacqueline.j?igshid=YmMyMTA2M2Y=\n\nJSC\nhttps://jeffreestarcosmetics.com/\n\nFeatured Creators:\n\nGraveyard Girl \nhttps://www.youtube.com/watch?v=U3bGRlTp9T8\n\nBridgette Turco\nhttps://www.youtube.com/watch?v=vnPDoMuXlHI\n\nJake Jacob Beauty \nhttps://www.youtube.com/watch?v=ptqYWD2FVJc\n\nSam Zena \nhttps://www.youtube.com/watch?v=mOZqlKyqkgo\n\nMakeupKAT\nhttps://www.youtube.com/watch?v=4FIp8_9kd3E\n\nChristopher JMUA\nhttps://www.youtube.com/watch?v=m3KR8U91nkY\n\nAixa C\nhttps://www.youtube.com/watch?v=MUOrcmE2rXw\n\nMyLocalRadio EVANSTON\nhttps://www.youtube.com/c/MyLocalRadiocom\n\n\nSONGS\n\nSavannah outen - The Hard Way\nhttps://open.spotify.com/track/6QWgorwuWhQVlGUcIx1M8O?si=iXkGGLy9RN-U2We8zQolQg\n\nNarrowhaven - Stutter\nhttps://open.spotify.com/track/3LbpaaoITl5hrYVfaiJDS8?si=HT-fImvvQo6Cu4MewWkToA\n\nObi ben \nYesterday\nhttps://open.spotify.com/track/6aoO5WQMZdfg0tKOhZ8bFA?si=3YvoWAfwT46yVfMp-jkErA\n\nStay\nhttps://open.spotify.com/track/5fqdxpnGtzMxCoxT2spSd5?si=8N_rXSlWRESyeMDb6qRvpg\n\n\nMason Murphy \nWrong direction\nhttps://open.spotify.com/track/66SxGyWkD0VZSb8iZxl78H?si=PXhBrnAsSkuf7neWB4nL9Q\n\nMusic by Mason Murphy - Fix Myself - https://thmatc.co/?l=01053589\nMusic by Mykyl - Wrong Direction - https://thmatc.co/?l=070FF12D\nMusic by Lillian Hepler - Baddie - https://thmatc.co/?l=1E2E250C\nMusic by Mason Murphy, Parker Rudd - Wake Me Up - https://thmatc.co/?l=8667752A\nMusic by Mason Murphy, Parker Rudd - Wake Me Up (Acoustic) - https://thmatc.co/?l=BD59F3B9\nMusic by Mason Murphy, Parker Rudd - Sick Of You - https://thmatc.co/?l=3B58445B\nMusic by Savannah Outen - The Hard Way - https://thmatc.co/?l=E70AE228\nMusic by Narrowhaven - Stutter - https://thmatc.co/?l=54B87CDF\nMusic by Narrowhaven - Sympathy - https://thmatc.co/?l=33C501B1\nMusic by Narrowhaven - Lying to Myself - https://thmatc.co/?l=7608C6B5\nMusic by Mykyl - Never Be - https://thmatc.co/?l=48DB86ED\nMusic by Mason Murphy, Parker Rudd - Wake Me Up (Acoustic) - https://thmatc.co/?l=BD59F3B9\nMusic by Obi Ben & Faletti - Stay - https://thmatc.co/?l=2514AD9F\nMusic by Obi Ben - Hometown Girl - https://thmatc.co/?l=655A1E21\nMusic by Obi Ben - yesterday - https://thmatc.co/?l=49694B9C",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MgxyLV31-vM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MgxyLV31-vM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MgxyLV31-vM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MgxyLV31-vM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MgxyLV31-vM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "shane",
+        "tags": [
+          "Shane",
+          "Dawson",
+          "conspiracy",
+          "theories",
+          "journalism",
+          "investigative journalism",
+          "docuseries",
+          "documentary"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The End Of Jeffree Star and Shane Dawson",
+          "description": "Please SUBSCRIBE and BINGE THE WHOLE SERIES https://www.youtube.com/watch?v=s3WFAONOFhs&list=PLDs0tNoNYTz05R0xo7PCVc-RgL2fsJnGg\n\nThank you to RIDGE! Check out their wallets here!!   https://ridge.com/shane\n\nNEW MERCH! https://www.shanedawsonmerch.com/\n\nCheck out THE NEW PODCAST! https://www.youtube.com/watch?v=TCatklmGGnk&list=PLUquvWuWlOaO3a04sl86i63y6LQqn1UIx\nShane Dawson Podcast Channel  @Shane2   \nPODCAST IG https://www.instagram.com/shanedawsonpodcast/?hl=en \n\nMy SNAPCHAT LOLShaneDawson\nMy TikTok https://www.tiktok.com/@shanedawson\nMy IG https://www.instagram.com/shanedawson/?hl=en\n\nCheck out all of my JEFFREE STAR SERIES here! \nhttps://www.youtube.com/watch?v=JWukx3HGBKI&list=PLDs0tNoNYTz05R0xo7PCVc-RgL2fsJnGg\n\nThe New World of Jeffree Star SPOTIFY PLAYLIST \nI made a Spotify Playlist of all the music featured in this series!\nhttps://open.spotify.com/playlist/2guWmSppQ6wvHrQ1j2ajE7?si=ZT5y1F5ZQSmaKbFo4EEOmQ\n\nJeffree Star  @jeffreestar   \nhttps://www.instagram.com/jeffreestar/?hl=en\nhttps://www.tiktok.com/@jeffreestar \n\nRyland’s Vlogs  @Ryland vlogs \nRyland’s Main Channel  @Ryland Adams  \nRyland’s Podcast   @The Sip with Ryland Adams and Lizze Gordon  \nRyland’s Instagram https://www.instagram.com/rylandadams/?hl=en\nRyland’s Tik Tok https://www.tiktok.com/@rylandadams\n\nChris’s Channel  @ChrisBstation \nChris’s Instagram https://www.instagram.com/chrisbstation/?hl=en\n\nMaddie \nhttps://instagram.com/maddietaylorr?igshid=YmMyMTA2M2Y=\n\nJaquline \nhttps://instagram.com/jacqueline.j?igshid=YmMyMTA2M2Y=\n\nJSC\nhttps://jeffreestarcosmetics.com/\n\nFeatured Creators:\n\nGraveyard Girl \nhttps://www.youtube.com/watch?v=U3bGRlTp9T8\n\nBridgette Turco\nhttps://www.youtube.com/watch?v=vnPDoMuXlHI\n\nJake Jacob Beauty \nhttps://www.youtube.com/watch?v=ptqYWD2FVJc\n\nSam Zena \nhttps://www.youtube.com/watch?v=mOZqlKyqkgo\n\nMakeupKAT\nhttps://www.youtube.com/watch?v=4FIp8_9kd3E\n\nChristopher JMUA\nhttps://www.youtube.com/watch?v=m3KR8U91nkY\n\nAixa C\nhttps://www.youtube.com/watch?v=MUOrcmE2rXw\n\nMyLocalRadio EVANSTON\nhttps://www.youtube.com/c/MyLocalRadiocom\n\n\nSONGS\n\nSavannah outen - The Hard Way\nhttps://open.spotify.com/track/6QWgorwuWhQVlGUcIx1M8O?si=iXkGGLy9RN-U2We8zQolQg\n\nNarrowhaven - Stutter\nhttps://open.spotify.com/track/3LbpaaoITl5hrYVfaiJDS8?si=HT-fImvvQo6Cu4MewWkToA\n\nObi ben \nYesterday\nhttps://open.spotify.com/track/6aoO5WQMZdfg0tKOhZ8bFA?si=3YvoWAfwT46yVfMp-jkErA\n\nStay\nhttps://open.spotify.com/track/5fqdxpnGtzMxCoxT2spSd5?si=8N_rXSlWRESyeMDb6qRvpg\n\n\nMason Murphy \nWrong direction\nhttps://open.spotify.com/track/66SxGyWkD0VZSb8iZxl78H?si=PXhBrnAsSkuf7neWB4nL9Q\n\nMusic by Mason Murphy - Fix Myself - https://thmatc.co/?l=01053589\nMusic by Mykyl - Wrong Direction - https://thmatc.co/?l=070FF12D\nMusic by Lillian Hepler - Baddie - https://thmatc.co/?l=1E2E250C\nMusic by Mason Murphy, Parker Rudd - Wake Me Up - https://thmatc.co/?l=8667752A\nMusic by Mason Murphy, Parker Rudd - Wake Me Up (Acoustic) - https://thmatc.co/?l=BD59F3B9\nMusic by Mason Murphy, Parker Rudd - Sick Of You - https://thmatc.co/?l=3B58445B\nMusic by Savannah Outen - The Hard Way - https://thmatc.co/?l=E70AE228\nMusic by Narrowhaven - Stutter - https://thmatc.co/?l=54B87CDF\nMusic by Narrowhaven - Sympathy - https://thmatc.co/?l=33C501B1\nMusic by Narrowhaven - Lying to Myself - https://thmatc.co/?l=7608C6B5\nMusic by Mykyl - Never Be - https://thmatc.co/?l=48DB86ED\nMusic by Mason Murphy, Parker Rudd - Wake Me Up (Acoustic) - https://thmatc.co/?l=BD59F3B9\nMusic by Obi Ben & Faletti - Stay - https://thmatc.co/?l=2514AD9F\nMusic by Obi Ben - Hometown Girl - https://thmatc.co/?l=655A1E21\nMusic by Obi Ben - yesterday - https://thmatc.co/?l=49694B9C"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XfkaeDaCSdCkUveMKX9qkNS8Xv8",
+      "id": "C2YSX4sV_bA",
+      "snippet": {
+        "publishedAt": "2022-11-15T17:00:08Z",
+        "channelId": "UCSugZEYrWbzqIWGD195V-YA",
+        "title": "Gucci Mane - Letter to Takeoff [Official Music Video]",
+        "description": "Gucci Mane - Letter to Takeoff\nDownload/Stream - https://guccimane.lnk.to/lettertotakeoff\n\nSubscribe for more official content from Gucci Mane:\nhttps://Atlantic.lnk.to/GMsubscribe\n\nFollow Gucci Mane\nWebsite: https://guccimane.lnk.to/OfficialWebsite\nTwitter: https://guccimane.lnk.to/Twitter\nFacebook: https://guccimane.lnk.to/Facebook\nInstagram: https://guccimane.lnk.to/Instagram\nSpotify: https://guccimane.lnk.to/Spotify\nApple Music: https://guccimane.lnk.to/AppleMusic\n\nFollow The New 1017\nWebsite: https://www.thenew1017records.com/\nInstagram: https://thenew1017.lnk.to/Instagram\nFacebook: https://thenew1017.lnk.to/Facebook\nYoutube: https://thenew1017.lnk.to/Youtube\nSoundCloud: https://thenew1017.lnk.to/Soundcloud\nGIPHY: https://thenew1017.lnk.to/Giphy\n\nThe official YouTube channel of Atlantic Records artist Gucci Mane. Subscribe for the latest music videos, performances, and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C2YSX4sV_bA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C2YSX4sV_bA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C2YSX4sV_bA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C2YSX4sV_bA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C2YSX4sV_bA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gucci Mane",
+        "tags": [
+          "officialguccimane",
+          "gucci mane",
+          "gucci",
+          "mane",
+          "atlantic records",
+          "guwop",
+          "radric davis",
+          "hip hop",
+          "rap",
+          "i get the bag",
+          "solitaire",
+          "real rich",
+          "el gato",
+          "mr. davis",
+          "atlanta",
+          "the new 1017",
+          "gucci mane 1017",
+          "1017",
+          "1017 label",
+          "1017 records",
+          "so icy gang",
+          "so icy gang vol. 1",
+          "so icy gang vol 1",
+          "big scarr",
+          "foogiano",
+          "pooh shiesty",
+          "enchanting",
+          "shiesty season",
+          "big grim reaper",
+          "ice daddy"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Gucci Mane - Letter to Takeoff [Official Music Video]",
+          "description": "Gucci Mane - Letter to Takeoff\nDownload/Stream - https://guccimane.lnk.to/lettertotakeoff\n\nSubscribe for more official content from Gucci Mane:\nhttps://Atlantic.lnk.to/GMsubscribe\n\nFollow Gucci Mane\nWebsite: https://guccimane.lnk.to/OfficialWebsite\nTwitter: https://guccimane.lnk.to/Twitter\nFacebook: https://guccimane.lnk.to/Facebook\nInstagram: https://guccimane.lnk.to/Instagram\nSpotify: https://guccimane.lnk.to/Spotify\nApple Music: https://guccimane.lnk.to/AppleMusic\n\nFollow The New 1017\nWebsite: https://www.thenew1017records.com/\nInstagram: https://thenew1017.lnk.to/Instagram\nFacebook: https://thenew1017.lnk.to/Facebook\nYoutube: https://thenew1017.lnk.to/Youtube\nSoundCloud: https://thenew1017.lnk.to/Soundcloud\nGIPHY: https://thenew1017.lnk.to/Giphy\n\nThe official YouTube channel of Atlantic Records artist Gucci Mane. Subscribe for the latest music videos, performances, and more."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ppyBlAeDjue3W-o0S5-kg_HE0dI",
+      "id": "LMWuv5aB-OQ",
+      "snippet": {
+        "publishedAt": "2022-11-15T08:34:42Z",
+        "channelId": "UC5enhS5tdXhHNbj8s_kdBUw",
+        "title": "Bendy and the Dark Revival Part 1 - RESCUED BY BENDY!",
+        "description": "Bendy and the Dark Revival Gameplay Walkthrough Part 1 We meet Alice Angel and get hunted by Bendy..\n\nGame: https://store.steampowered.com/app/1063660/Bendy_and_the_Dark_Revival/\n\n#bendyandthedarkrevival #bendyandtheinkmachine #bendy \n\n bendy and the dark revival Part 1 - HUNTED BY INK DEMON BENDY.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LMWuv5aB-OQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LMWuv5aB-OQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LMWuv5aB-OQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LMWuv5aB-OQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LMWuv5aB-OQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FusionZGamer",
+        "tags": [
+          "bendy and the dark revival",
+          "bendy and the dark revival gameplay",
+          "bendy and the dark revival fusionzgamer",
+          "bendy and the dark revival ending",
+          "bendy and the dark revival walkthrough",
+          "bendy and the ink machine"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Bendy and the Dark Revival Part 1 - RESCUED BY BENDY!",
+          "description": "Bendy and the Dark Revival Gameplay Walkthrough Part 1 We meet Alice Angel and get hunted by Bendy..\n\nGame: https://store.steampowered.com/app/1063660/Bendy_and_the_Dark_Revival/\n\n#bendyandthedarkrevival #bendyandtheinkmachine #bendy \n\n bendy and the dark revival Part 1 - HUNTED BY INK DEMON BENDY."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "okh4sontI9v8C229q4xETXWVPkg",
+      "id": "caVoqAfdkYQ",
+      "snippet": {
+        "publishedAt": "2022-11-14T18:47:58Z",
+        "channelId": "UCTSRIY3GLFYIpkR2QwyeklA",
+        "title": "Do these mental health products even do anything?",
+        "description": "This video is sponsored by HelloFresh. For 70% off HelloFresh plus FREE shipping, use my code IMALITTLESTINKER70 at https://bit.ly/3Nn66HV!\n\n00:00 - the cove\n03:04 - the ads\n11:22 - the unboxing couch\n23:15 - the results\n39:24 - the rest of the video\n\nmerch:\r\nhttps://www.drewgoodenshop.com/\r\n\r\nfollow me:\r\ntwitter - https://www.twitter.com/drewisgooden\r\ninstagram - https://www.instagram.com/drewisgooden",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/caVoqAfdkYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/caVoqAfdkYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/caVoqAfdkYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/caVoqAfdkYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/caVoqAfdkYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Drew Gooden",
+        "tags": [
+          "drew gooden",
+          "comedy",
+          "commentary",
+          "reaction",
+          "vine",
+          "drew gooden vine",
+          "road work ahead guy",
+          "parody",
+          "rant",
+          "cringe"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Do these mental health products even do anything?",
+          "description": "This video is sponsored by HelloFresh. For 70% off HelloFresh plus FREE shipping, use my code IMALITTLESTINKER70 at https://bit.ly/3Nn66HV!\n\n00:00 - the cove\n03:04 - the ads\n11:22 - the unboxing couch\n23:15 - the results\n39:24 - the rest of the video\n\nmerch:\r\nhttps://www.drewgoodenshop.com/\r\n\r\nfollow me:\r\ntwitter - https://www.twitter.com/drewisgooden\r\ninstagram - https://www.instagram.com/drewisgooden"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T9zU3QgcoQP4w-lkGjhFD4sLMCU",
+      "id": "evUfG3lrk5U",
+      "snippet": {
+        "publishedAt": "2022-11-15T14:00:19Z",
+        "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "title": "What Happens If A Star Explodes Near The Earth?",
+        "description": "People have witnessed supernovae for millennia, but what threat do they pose to life on Earth? This video is sponsored by Brilliant. You can get started for free, or the first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription. \n\n▀▀▀\nA massive thanks to Prof. Hans-Thomas Janka for helping us with the physics of supernovae and GRBs. A massive thanks to Prof. Brian Thomas for all of his help with the terrestrial effects of supernovae and GRBs. This video would not have been possible without them. Also thanks to Dr. Luke Barnes for his initial help with the literature search.\n\nHydrogen bomb vs Supernova fact was taken from this great article by xkcd/Randall Munroe – https://what-if.xkcd.com/73/ (based on the calculation by Andrew Karam, 2002)\n\nCosmic bubble footage from\nhttps://www.cfa.harvard.edu/news/1000-light-year-wide-bubble-surrounding-earth-source-all-nearby-young-stars\n\nNeutrino driven SN explosion simulations from https://iopscience.iop.org/article/10.1088/2041-8205/808/2/L42\n\n▀▀▀\nReferences:\n\nMelott, A. et al. (2019). Hypothesis: Muon radiation dose and marine megafaunal extinction at the End-Pliocene supernova. Astrobiology, 19(6), 825-830. – https://ve42.co/Melott1\n\nThomas, B. C. et al. (2016). Terrestrial effects of nearby supernovae in the early Pleistocene. The Astrophysical Journal Letters, 826(1), L3 – https://ve42.co/Thomas1\n\nMelott, A. L., & Thomas, B. C. (2019). From cosmic explosions to terrestrial fires?. The Journal of Geology, 127(4), 475-481. – https://ve42.co/Melott2\n\nFields, B. et al. (2019). Near-Earth supernova explosions: Evidence, implications, and opportunities. arXiv preprint arXiv:1903.04589. – https://ve42.co/Fields1\n\nThomas, B. C., Atri, D., & Melott, A. L. (2021). Gamma-ray bursts: not so much deadlier than we thought. Monthly Notices of the Royal Astronomical Society, 500(2), 1970-1973. – https://ve42.co/Thomas2\n\nMelott, A. et al. (2004). Did a gamma-ray burst initiate the late Ordovician mass extinction?. International Journal of Astrobiology, 3(1), 55-61. – https://ve42.co/Melott3\n\nFirestone, R. B. (2014). Observation of 23 supernovae that exploded less than 300 pc from Earth during the past 300 kyr. The Astrophysical Journal, 789(1), 29. – https://ve42.co/firestone1\n\nJanka, H. T. (2017). Neutrino emission from supernovae. arXiv preprint arXiv:1702.08713. – https://ve42.co/Janka1\n\nJanka, H. T., & Hillebrandt, W. (1989). Neutrino emission from type II supernovae-an analysis of the spectra. Astronomy and astrophysics, 224, 49-56. – https://ve42.co/Janka2\n\nJanka, H. T. (2017). Neutrino-driven explosions. arXiv preprint arXiv:1702.08825. – https://ve42.co/Janka3\n\nKaram, P. A. (2002). Gamma and neutrino radiation dose from gamma ray bursts and nearby supernovae. Health physics, 82(4), 491-499. – https://ve42.co/Karam1\n\nMelott, A. L., Thomas, et al.. (2017). A supernova at 50 pc: effects on the Earth's atmosphere and biota. The Astrophysical Journal, 840(2), 105. – https://ve42.co/Melott4\n\nLudwig, P., et al. (2016). Time-resolved 2-million-year-old supernova activity discovered in Earth’s microfossil record. Proceedings of the National Academy of Sciences, 113(33), 9232-9237. – https://ve42.co/Ludwig1\n\nGritschneder, et al. (2011). The supernova triggered formation and enrichment of our solar system. The Astrophysical Journal, 745(1), 22. – https://ve42.co/Gritschneder1\n\nMotizuki, Y., Takahashi, et al. (2009). An Antarctic ice core recording both supernovae and solar cycles. arXiv preprint arXiv:0902.3446. – https://ve42.co/Motizuki\n\nZucker, C. et al. (2022). Star formation near the Sun is driven by expansion of the Local Bubble. Nature, 601(7893), 334-337. – https://ve42.co/Zucker1\n\nHirata, K. et al.(1987). Observation of a neutrino burst from the supernova SN1987A. Physical Review Letters, 58(14), 1490. – https://ve42.co/Hirata1\n\n▀▀▀\nSpecial thanks to our Patron supporters:\nJames Sanger, Louis Lebbos, Elliot Miller, Brian Busbee, Jerome Barakos M.D., Amadeo Bee, TTST, Balkrishna Heroor, Chris LaClair, John H. Austin, Jr., OnlineBookClub.org, Matthew Gonzalez, Eric Sexton, John Kiehl, Diffbot, Gnare, Dave Kircher, Burt Humburg, Blake Byers, Evgeny Skvortsov, Meekay, Bill Linder, Paul Peijzel, Josh Hibschman, Mac Malkawi, Mike Schneider, John Bauer, jim buckmaster, Juan Benet, Sunil Nagaraj, Richard Sundvall, Lee Redden, Stephen Wilcox, Marinus Kuivenhoven, Michael Krugman, Cy 'kkm' K'Nelson, Sam Lutfi\n\n▀▀▀\nWritten by Petr Lebedev & Derek Muller\nEdited by Fabio Albertelli\nAnimation by Fabio Albertelli, Jakub Misiek, Alex Drakoulis, Ivy Tello, Mike Radjabov, and Charlie Davies\nFilmed by Derek Muller\nAdditional Research by Kovi Rose & Katie Barnshaw\nVideo/photos supplied by NASA, ESA, Pond5, and Getty Images\nMusic from Epidemic Sound & Jonny Hyman\nProduced by Derek Muller, Petr Lebedev, and Emily Zhang",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/evUfG3lrk5U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/evUfG3lrk5U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/evUfG3lrk5U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/evUfG3lrk5U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/evUfG3lrk5U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veritasium",
+        "tags": ["veritasium", "science", "physics"],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "What Happens If A Star Explodes Near The Earth?",
+          "description": "People have witnessed supernovae for millennia, but what threat do they pose to life on Earth? This video is sponsored by Brilliant. You can get started for free, or the first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription. \n\n▀▀▀\nA massive thanks to Prof. Hans-Thomas Janka for helping us with the physics of supernovae and GRBs. A massive thanks to Prof. Brian Thomas for all of his help with the terrestrial effects of supernovae and GRBs. This video would not have been possible without them. Also thanks to Dr. Luke Barnes for his initial help with the literature search.\n\nHydrogen bomb vs Supernova fact was taken from this great article by xkcd/Randall Munroe – https://what-if.xkcd.com/73/ (based on the calculation by Andrew Karam, 2002)\n\nCosmic bubble footage from\nhttps://www.cfa.harvard.edu/news/1000-light-year-wide-bubble-surrounding-earth-source-all-nearby-young-stars\n\nNeutrino driven SN explosion simulations from https://iopscience.iop.org/article/10.1088/2041-8205/808/2/L42\n\n▀▀▀\nReferences:\n\nMelott, A. et al. (2019). Hypothesis: Muon radiation dose and marine megafaunal extinction at the End-Pliocene supernova. Astrobiology, 19(6), 825-830. – https://ve42.co/Melott1\n\nThomas, B. C. et al. (2016). Terrestrial effects of nearby supernovae in the early Pleistocene. The Astrophysical Journal Letters, 826(1), L3 – https://ve42.co/Thomas1\n\nMelott, A. L., & Thomas, B. C. (2019). From cosmic explosions to terrestrial fires?. The Journal of Geology, 127(4), 475-481. – https://ve42.co/Melott2\n\nFields, B. et al. (2019). Near-Earth supernova explosions: Evidence, implications, and opportunities. arXiv preprint arXiv:1903.04589. – https://ve42.co/Fields1\n\nThomas, B. C., Atri, D., & Melott, A. L. (2021). Gamma-ray bursts: not so much deadlier than we thought. Monthly Notices of the Royal Astronomical Society, 500(2), 1970-1973. – https://ve42.co/Thomas2\n\nMelott, A. et al. (2004). Did a gamma-ray burst initiate the late Ordovician mass extinction?. International Journal of Astrobiology, 3(1), 55-61. – https://ve42.co/Melott3\n\nFirestone, R. B. (2014). Observation of 23 supernovae that exploded less than 300 pc from Earth during the past 300 kyr. The Astrophysical Journal, 789(1), 29. – https://ve42.co/firestone1\n\nJanka, H. T. (2017). Neutrino emission from supernovae. arXiv preprint arXiv:1702.08713. – https://ve42.co/Janka1\n\nJanka, H. T., & Hillebrandt, W. (1989). Neutrino emission from type II supernovae-an analysis of the spectra. Astronomy and astrophysics, 224, 49-56. – https://ve42.co/Janka2\n\nJanka, H. T. (2017). Neutrino-driven explosions. arXiv preprint arXiv:1702.08825. – https://ve42.co/Janka3\n\nKaram, P. A. (2002). Gamma and neutrino radiation dose from gamma ray bursts and nearby supernovae. Health physics, 82(4), 491-499. – https://ve42.co/Karam1\n\nMelott, A. L., Thomas, et al.. (2017). A supernova at 50 pc: effects on the Earth's atmosphere and biota. The Astrophysical Journal, 840(2), 105. – https://ve42.co/Melott4\n\nLudwig, P., et al. (2016). Time-resolved 2-million-year-old supernova activity discovered in Earth’s microfossil record. Proceedings of the National Academy of Sciences, 113(33), 9232-9237. – https://ve42.co/Ludwig1\n\nGritschneder, et al. (2011). The supernova triggered formation and enrichment of our solar system. The Astrophysical Journal, 745(1), 22. – https://ve42.co/Gritschneder1\n\nMotizuki, Y., Takahashi, et al. (2009). An Antarctic ice core recording both supernovae and solar cycles. arXiv preprint arXiv:0902.3446. – https://ve42.co/Motizuki\n\nZucker, C. et al. (2022). Star formation near the Sun is driven by expansion of the Local Bubble. Nature, 601(7893), 334-337. – https://ve42.co/Zucker1\n\nHirata, K. et al.(1987). Observation of a neutrino burst from the supernova SN1987A. Physical Review Letters, 58(14), 1490. – https://ve42.co/Hirata1\n\n▀▀▀\nSpecial thanks to our Patron supporters:\nJames Sanger, Louis Lebbos, Elliot Miller, Brian Busbee, Jerome Barakos M.D., Amadeo Bee, TTST, Balkrishna Heroor, Chris LaClair, John H. Austin, Jr., OnlineBookClub.org, Matthew Gonzalez, Eric Sexton, John Kiehl, Diffbot, Gnare, Dave Kircher, Burt Humburg, Blake Byers, Evgeny Skvortsov, Meekay, Bill Linder, Paul Peijzel, Josh Hibschman, Mac Malkawi, Mike Schneider, John Bauer, jim buckmaster, Juan Benet, Sunil Nagaraj, Richard Sundvall, Lee Redden, Stephen Wilcox, Marinus Kuivenhoven, Michael Krugman, Cy 'kkm' K'Nelson, Sam Lutfi\n\n▀▀▀\nWritten by Petr Lebedev & Derek Muller\nEdited by Fabio Albertelli\nAnimation by Fabio Albertelli, Jakub Misiek, Alex Drakoulis, Ivy Tello, Mike Radjabov, and Charlie Davies\nFilmed by Derek Muller\nAdditional Research by Kovi Rose & Katie Barnshaw\nVideo/photos supplied by NASA, ESA, Pond5, and Getty Images\nMusic from Epidemic Sound & Jonny Hyman\nProduced by Derek Muller, Petr Lebedev, and Emily Zhang"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wAg99bgyX145EDV-qIbf9ECGJnM",
+      "id": "N3QHb-202gg",
+      "snippet": {
+        "publishedAt": "2022-11-15T17:00:28Z",
+        "channelId": "UC9YydG57epLqxA9cTzZXSeQ",
+        "title": "Season 01 Battle Pass Trailer | Call of Duty: Modern Warfare II & Warzone 2.0",
+        "description": "The new innovative Battle Pass system features an impressive arsenal of a new Operator, new Weapons, Operator Skins, Weapon Blueprints, and MORE!\n\n#BattlePass #WarZone2\n\nFollow #CallofDuty for the latest intel:\nTwitter: http://twitter.com/CallofDuty\nInstagram: http://instagram.com/callofduty\nFacebook: http://facebook.com/CallofDuty\nTikTok: http://www.tiktok.com/@callofduty",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N3QHb-202gg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N3QHb-202gg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N3QHb-202gg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N3QHb-202gg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N3QHb-202gg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Call of Duty",
+        "tags": [
+          "call of duty",
+          "cod",
+          "activision",
+          "battle pass",
+          "warzone2",
+          "warzoneII",
+          "call of duty season 01",
+          "battle pass trailer",
+          "battle game",
+          "free for all",
+          "battle royale",
+          "last man standing",
+          "squad",
+          "teams",
+          "legacy",
+          "stats",
+          "matches",
+          "memories",
+          "memorialize",
+          "greatest hits",
+          "immortalized",
+          "your greatest hits immortalized",
+          "kills",
+          "wins",
+          "battle",
+          "pass",
+          "cod: battle pass",
+          "battle pass official trailer",
+          "call of duty: battle pass",
+          "battle pass cod",
+          "season 01",
+          "weapon blueprints",
+          "modern warfare",
+          "warzone",
+          "cod: warzone"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Season 01 Battle Pass Trailer | Call of Duty: Modern Warfare II & Warzone 2.0",
+          "description": "The new innovative Battle Pass system features an impressive arsenal of a new Operator, new Weapons, Operator Skins, Weapon Blueprints, and MORE!\n\n#BattlePass #WarZone2\n\nFollow #CallofDuty for the latest intel:\nTwitter: http://twitter.com/CallofDuty\nInstagram: http://instagram.com/callofduty\nFacebook: http://facebook.com/CallofDuty\nTikTok: http://www.tiktok.com/@callofduty"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "chueKCHbRzdezEiDwTuFNVcqHJo",
+      "id": "dZJIUQvUaSQ",
+      "snippet": {
+        "publishedAt": "2022-11-15T04:21:10Z",
+        "channelId": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+        "title": "Washington Commanders vs. Philadelphia Eagles | 2022 Week 10 Game Highlights",
+        "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dZJIUQvUaSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dZJIUQvUaSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dZJIUQvUaSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dZJIUQvUaSQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dZJIUQvUaSQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NFL",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Washington Commanders vs. Philadelphia Eagles | 2022 Week 10 Game Highlights",
+          "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_EYjrsiwhamtB0oCac3NUWe4wXM",
+      "id": "dAQBo9BGRdA",
+      "snippet": {
+        "publishedAt": "2022-11-15T14:00:31Z",
+        "channelId": "UCGIY_O-8vW4rfX98KlMkvRg",
+        "title": "Pokémon Scarlet & Pokémon Violet – Overview Trailer – Nintendo Switch",
+        "description": "Learn about the world of Pokémon Scarlet & Pokémon Violet, including different features of the new open-world experience, Pokémon and Trainers you’ll meet, and more! \n\nBegin your adventure in the Paldea region when Pokémon Scarlet & Pokémon Violet release on November 18th!  \n\n#PokemonScarletViolet #NintendoSwitch \n\nhttps://scarletviolet.pokemon.com/en-us/\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\r\n\r\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\r\n\r\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\r\nFollow us on Twitter: http://twitter.com/NintendoAmerica\r\nFollow us on Instagram: http://instagram.com/Nintendo\r\nFollow us on Pinterest: http://pinterest.com/Nintendo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dAQBo9BGRdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dAQBo9BGRdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dAQBo9BGRdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dAQBo9BGRdA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dAQBo9BGRdA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nintendo of America",
+        "tags": [
+          "nintendo",
+          "game",
+          "gameplay",
+          "fun",
+          "video game",
+          "action",
+          "adventure",
+          "rpg",
+          "play",
+          "switch",
+          "nintendo switch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Pokémon Scarlet & Pokémon Violet – Overview Trailer – Nintendo Switch",
+          "description": "Learn about the world of Pokémon Scarlet & Pokémon Violet, including different features of the new open-world experience, Pokémon and Trainers you’ll meet, and more! \n\nBegin your adventure in the Paldea region when Pokémon Scarlet & Pokémon Violet release on November 18th!  \n\n#PokemonScarletViolet #NintendoSwitch \n\nhttps://scarletviolet.pokemon.com/en-us/\n\nSubscribe for more Nintendo fun! https://goo.gl/HYYsot\r\n\r\nVisit Nintendo.com for all the latest! http://www.nintendo.com/\r\n\r\nLike Nintendo on Facebook: http://www.facebook.com/Nintendo\r\nFollow us on Twitter: http://twitter.com/NintendoAmerica\r\nFollow us on Instagram: http://instagram.com/Nintendo\r\nFollow us on Pinterest: http://pinterest.com/Nintendo"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TflVKaA6P5lRzcWIpuwnsgLlrB4",
+      "id": "5mTHyZqQ-QY",
+      "snippet": {
+        "publishedAt": "2022-11-15T16:57:59Z",
+        "channelId": "UCnepIUw_tvOatokJAB1yipA",
+        "title": "I Played Pokémon as an Electric Gym Leader",
+        "description": "Install Raid for Free ✅ Mobile and PC: https://clik.cc/S90qp and get a special starter pack 💥 Available only for the next 30 days \nI played Pokemon as Galar's first Electric type gym leader!\n📽️Subscribe here! http://bit.ly/mandjtv_plays\n👕Merch store! https://mandjtvmerch.com/\n💸Support me on Patreon and get perks! http://bit.ly/mandjtv_patreon\n▶️Main Pokemon Channel! http://bit.ly/mandjtv_sub\n📱 TikTok! http://bit.ly/mandjtv_tiktok\n📸Instagram! http://bit.ly/mandjtv_insta\n👽Reddit! http://bit.ly/mandjtv_reddit\n🏪Amazon Storefront! http://bit.ly/mandjtv_shop\n\nEdited by Katie Rose\nMytey subscribe animation by Spoody: https://www.youtube.com/channel/UCtT-Ff9o7Ygj0dUu8wGiXcw",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5mTHyZqQ-QY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5mTHyZqQ-QY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5mTHyZqQ-QY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5mTHyZqQ-QY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5mTHyZqQ-QY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MandJTV Plays",
+        "tags": [
+          "mandjtv",
+          "mandjtv pokevids",
+          "gameplay",
+          "let's play",
+          "pokemon",
+          "pokemon sword and shield",
+          "pokemon sword",
+          "pokemon shield",
+          "gen 8",
+          "new pokemon",
+          "pokemon let's play",
+          "playthrough",
+          "best pokemon",
+          "all pokemon",
+          "nintendo pokemon",
+          "original pokemon",
+          "pikachu",
+          "greninja",
+          "charizard",
+          "pokemon switch",
+          "brilliant diamond",
+          "shining pearl",
+          "legends arceus",
+          "pokemon legends arceus",
+          "scarlet violet",
+          "gym leader",
+          "electric gym leader",
+          "if i was a gym leader",
+          "nintendo switch"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Played Pokémon as an Electric Gym Leader",
+          "description": "Install Raid for Free ✅ Mobile and PC: https://clik.cc/S90qp and get a special starter pack 💥 Available only for the next 30 days \nI played Pokemon as Galar's first Electric type gym leader!\n📽️Subscribe here! http://bit.ly/mandjtv_plays\n👕Merch store! https://mandjtvmerch.com/\n💸Support me on Patreon and get perks! http://bit.ly/mandjtv_patreon\n▶️Main Pokemon Channel! http://bit.ly/mandjtv_sub\n📱 TikTok! http://bit.ly/mandjtv_tiktok\n📸Instagram! http://bit.ly/mandjtv_insta\n👽Reddit! http://bit.ly/mandjtv_reddit\n🏪Amazon Storefront! http://bit.ly/mandjtv_shop\n\nEdited by Katie Rose\nMytey subscribe animation by Spoody: https://www.youtube.com/channel/UCtT-Ff9o7Ygj0dUu8wGiXcw"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qUZg7Abz6n_Z0M-p0ZEcxvQNgZw",
+      "id": "eNccmTr9ZC8",
+      "snippet": {
+        "publishedAt": "2022-11-15T17:00:24Z",
+        "channelId": "UCV0pIPt5HFfulonNog3cz1A",
+        "title": "G Herbo - Him (Official Music Video)",
+        "description": "Official music video for G Herbo \"Him\", available to stream now: https://GHerbo.lnk.to/SurvivorsRemorse\n\nSubscribe to G Herbo's official channel for exclusive music videos & behind the scenes footage: http://bit.ly/Subscribe-to-GHerbo\n\nFollow G Herbo:\nhttps://fb.com/gherbomusic\nhttp://twitter.com/gherbo\nhttps://instagram.com/nolimitherbo\nhttps://soundcloud.com/gherbo\nhttp://spoti.fi/1LwQTBk \nhttp://gherbomusic.com\n\n#GHerbo #SurvivorsRemorse",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eNccmTr9ZC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eNccmTr9ZC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eNccmTr9ZC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eNccmTr9ZC8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eNccmTr9ZC8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "G Herbo",
+        "tags": [
+          "G herbo",
+          "g herbo 2020",
+          "g herbo official",
+          "g herbo music",
+          "swervo",
+          "g herbo servivors remorse",
+          "survivors remorse g herbo",
+          "g herbo new music video",
+          "g herbo him",
+          "him official music video",
+          "g herbo him lyrics"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "G Herbo - Him (Official Music Video)",
+          "description": "Official music video for G Herbo \"Him\", available to stream now: https://GHerbo.lnk.to/SurvivorsRemorse\n\nSubscribe to G Herbo's official channel for exclusive music videos & behind the scenes footage: http://bit.ly/Subscribe-to-GHerbo\n\nFollow G Herbo:\nhttps://fb.com/gherbomusic\nhttp://twitter.com/gherbo\nhttps://instagram.com/nolimitherbo\nhttps://soundcloud.com/gherbo\nhttp://spoti.fi/1LwQTBk \nhttp://gherbomusic.com\n\n#GHerbo #SurvivorsRemorse"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aia0nlhC6bzfelNS5wXo9bO9yHo",
+      "id": "Fg8T_xuOvPA",
+      "snippet": {
+        "publishedAt": "2022-11-13T22:03:10Z",
+        "channelId": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+        "title": "GAME OF THE YEAR??? Buffalo Bills vs. Minnesota Vikings | 2022 Week 10 Game Highlights",
+        "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fg8T_xuOvPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fg8T_xuOvPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fg8T_xuOvPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fg8T_xuOvPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fg8T_xuOvPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NFL",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "GAME OF THE YEAR??? Buffalo Bills vs. Minnesota Vikings | 2022 Week 10 Game Highlights",
+          "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pk5YcWFDeDbZ2lCdqTwUSCgTVzI",
+      "id": "pRPL29zD-Sk",
+      "snippet": {
+        "publishedAt": "2022-11-15T14:57:43Z",
+        "channelId": "UCPAk4rqVIwg1NCXh61VJxbg",
+        "title": "Best Duct Tape Art Wins $5,000!",
+        "description": "We made art out of duct tape! Watch until the end to see who wins!\n\nCheck out our merch: https://zhcstore.com/\n\nCheck out our guest Ryan\nhttps://www.youtube.com/@RMD\n\nSubscribe To Help Fund ZHC's Expensive Videos\n\nFollow these!\nInstagram - https://www.instagram.com/zhc\nTwitter - https://twitter.com/zhc_yt\nFacebook - https://www.facebook.com/ZHC",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pRPL29zD-Sk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pRPL29zD-Sk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pRPL29zD-Sk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pRPL29zD-Sk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pRPL29zD-Sk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ZHC Crafts",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Best Duct Tape Art Wins $5,000!",
+          "description": "We made art out of duct tape! Watch until the end to see who wins!\n\nCheck out our merch: https://zhcstore.com/\n\nCheck out our guest Ryan\nhttps://www.youtube.com/@RMD\n\nSubscribe To Help Fund ZHC's Expensive Videos\n\nFollow these!\nInstagram - https://www.instagram.com/zhc\nTwitter - https://twitter.com/zhc_yt\nFacebook - https://www.facebook.com/ZHC"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5uw8vf-Ps8Pud4XnLwsD0VE2osc",
+      "id": "oJca6zoI50E",
+      "snippet": {
+        "publishedAt": "2022-11-14T17:00:55Z",
+        "channelId": "UC9YydG57epLqxA9cTzZXSeQ",
+        "title": "Warzone 2.0 Launch Trailer | Call of Duty: Warzone 2.0",
+        "description": "Call of Duty #Warzone2 is almost here and it's FREE as a 🦅\n\nExperience the massive Battle Royale, the all-new DMZ mode, and so much more on November 16 🔥\n\nFollow #CallofDuty for the latest intel:\nTwitter: http://twitter.com/CallofDuty\nInstagram: http://instagram.com/callofduty\nFacebook: http://facebook.com/CallofDuty\nTikTok: http://www.tiktok.com/@callofduty",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oJca6zoI50E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oJca6zoI50E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oJca6zoI50E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oJca6zoI50E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oJca6zoI50E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Call of Duty",
+        "tags": [
+          "call of duty",
+          "cod",
+          "activision",
+          "warzone2",
+          "call of duty: warzone2",
+          "warzonII",
+          "call of duty: warzoneII",
+          "battle game",
+          "warzone",
+          "cod warzone",
+          "call of duty: warzone",
+          "free for all",
+          "battle royale",
+          "last man standing",
+          "squad",
+          "teams",
+          "legacy",
+          "warzone legacy",
+          "my warzone legacy",
+          "stats",
+          "bragging rights",
+          "matches",
+          "memories",
+          "community",
+          "memorialize",
+          "accomplishments",
+          "personalized video",
+          "warzone accomplishments",
+          "greatest hits",
+          "immortalized",
+          "your greatest hits immortalized",
+          "warzone stats",
+          "warzone matches",
+          "kills",
+          "wins"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Warzone 2.0 Launch Trailer | Call of Duty: Warzone 2.0",
+          "description": "Call of Duty #Warzone2 is almost here and it's FREE as a 🦅\n\nExperience the massive Battle Royale, the all-new DMZ mode, and so much more on November 16 🔥\n\nFollow #CallofDuty for the latest intel:\nTwitter: http://twitter.com/CallofDuty\nInstagram: http://instagram.com/callofduty\nFacebook: http://facebook.com/CallofDuty\nTikTok: http://www.tiktok.com/@callofduty"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5vU2VaVsLuVxluB9Z-CYSfis39A",
+      "id": "pBIGdw-BRxw",
+      "snippet": {
+        "publishedAt": "2022-11-15T17:00:39Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "Magic Mike’s Last Dance | Official Trailer",
+        "description": "Just in time for Valentine’s Day comes the third installment of the \nblockbuster “Magic Mike” film franchise, the musical comedy “Magic Mike’s Last \nDance.” The creative team behind the first film, which garnered praise from critics \nand audiences alike, has reunited to create the magic again: Channing Tatum \nreprises his role as Mike Lane and Steven Soderbergh returns to the helm with a \nscript from Reid Carolin, who also wrote the first two films. And starring alongside \nTatum is Salma Hayek Pinault (“House of Gucci,” “Hitman’s Wife’s Bodyguard”).\n“Magic” Mike Lane (Tatum) takes to the stage again after a lengthy hiatus, \nfollowing a business deal that went bust, leaving him broke and taking \nbartender gigs in Florida. For what he hopes will be one last hurrah, Mike heads \nto London with a wealthy socialite (Hayek Pinault) who lures him with an offer he \ncan’t refuse…and an agenda all her own. With everything on the line, once Mike \ndiscovers what she truly has in mind, will he—and the roster of hot new dancers \nhe’ll have to whip into shape—be able to pull it off?\nThe film’s producers are Nick Wechsler, Gregory Jacobs, Tatum, Carolin and \nPeter Kiernan. Julie M. Anderson serves as executive producer.\nAlso starring with Tatum and Hayek Pinault are Ayub Khan Din (“Ackley \nBridge”), newcomer Jemelia George, Juliette Motamed (“We Are Lady Parts”) \nand Vicki Pepperdine (“Johnny English Strikes Again”).\nSoderbergh’s creative team behind the scenes includes production \ndesigner Pat Campbell (“The Bastard Son & The Devil Himself”), costume designer \nChristopher Peterson (“The Irishman”) and music supervisor Season Kent (“KIMI,” \n“Let Them All Talk”), with choreography by Alison Faulk and Luke Broadlick, both \npart of the “Magic Mike” franchise.\nA Warner Bros. Pictures Presentation, “Magic Mike’s Last Dance” slides into \ntheaters only in North America on February 10, 2023 and internationally beginning \n8 February 2023, and will be distributed worldwide by Warner Bros. Pictures",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pBIGdw-BRxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pBIGdw-BRxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pBIGdw-BRxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pBIGdw-BRxw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pBIGdw-BRxw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "tags": [
+          "ayub khan din",
+          "channing tatum",
+          "jemelia george",
+          "juliette motamed",
+          "magic mike 3 trailer",
+          "magic mike last dance",
+          "magic mike last dance official trailer",
+          "magic mike last dance trailer",
+          "magic mike trailer",
+          "salma hayek",
+          "stephen soderbergh",
+          "vicki pepperdine",
+          "warner bros",
+          "wb"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Magic Mike’s Last Dance | Official Trailer",
+          "description": "Just in time for Valentine’s Day comes the third installment of the \nblockbuster “Magic Mike” film franchise, the musical comedy “Magic Mike’s Last \nDance.” The creative team behind the first film, which garnered praise from critics \nand audiences alike, has reunited to create the magic again: Channing Tatum \nreprises his role as Mike Lane and Steven Soderbergh returns to the helm with a \nscript from Reid Carolin, who also wrote the first two films. And starring alongside \nTatum is Salma Hayek Pinault (“House of Gucci,” “Hitman’s Wife’s Bodyguard”).\n“Magic” Mike Lane (Tatum) takes to the stage again after a lengthy hiatus, \nfollowing a business deal that went bust, leaving him broke and taking \nbartender gigs in Florida. For what he hopes will be one last hurrah, Mike heads \nto London with a wealthy socialite (Hayek Pinault) who lures him with an offer he \ncan’t refuse…and an agenda all her own. With everything on the line, once Mike \ndiscovers what she truly has in mind, will he—and the roster of hot new dancers \nhe’ll have to whip into shape—be able to pull it off?\nThe film’s producers are Nick Wechsler, Gregory Jacobs, Tatum, Carolin and \nPeter Kiernan. Julie M. Anderson serves as executive producer.\nAlso starring with Tatum and Hayek Pinault are Ayub Khan Din (“Ackley \nBridge”), newcomer Jemelia George, Juliette Motamed (“We Are Lady Parts”) \nand Vicki Pepperdine (“Johnny English Strikes Again”).\nSoderbergh’s creative team behind the scenes includes production \ndesigner Pat Campbell (“The Bastard Son & The Devil Himself”), costume designer \nChristopher Peterson (“The Irishman”) and music supervisor Season Kent (“KIMI,” \n“Let Them All Talk”), with choreography by Alison Faulk and Luke Broadlick, both \npart of the “Magic Mike” franchise.\nA Warner Bros. Pictures Presentation, “Magic Mike’s Last Dance” slides into \ntheaters only in North America on February 10, 2023 and internationally beginning \n8 February 2023, and will be distributed worldwide by Warner Bros. Pictures"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rB5dqNI3LB2m6sdyGc9NHRpKl1s",
+      "id": "_FD6Fyn2s0c",
+      "snippet": {
+        "publishedAt": "2022-11-14T18:00:09Z",
+        "channelId": "UCB9_VH_CNbbH4GfKu8qh63w",
+        "title": "Sauron VS Lich King (Lord of the Rings VS World of Warcraft) | DEATH BATTLE!",
+        "description": "Get extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\nGo to http://bespokepost.com/deathbattle to get 20% off your first monthly box.\nGo to http://shadyrays.com and use code DEATHBATTLE to get 50% off 2 or more pairs of sunglasses.\n\n- \"One King to Rule Them All\" - Battle Music\nStreaming Link: https://spoti.fi/3hECTwr\nSubscribe to Therewolf Media on YT: https://bit.ly/3KgVdoa\n\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_FD6Fyn2s0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_FD6Fyn2s0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_FD6Fyn2s0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_FD6Fyn2s0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_FD6Fyn2s0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DEATH BATTLE!",
+        "tags": [
+          "DEATH BATTLE",
+          "Rooster Teeth",
+          "RT",
+          "DBX",
+          "DEATH BATTLE Cast",
+          "screwattack",
+          "death battle",
+          "rooster teeth",
+          "roosterteeth",
+          "ben singer",
+          "chad james",
+          "lord of the rings",
+          "warcraft",
+          "world of warcraft",
+          "wow",
+          "lich king",
+          "sauron",
+          "rings of power",
+          "ringsofpower",
+          "galadriel",
+          "halbrand",
+          "ring of power",
+          "lord of the ring",
+          "rings",
+          "arthas",
+          "deathbattle",
+          "tolkien",
+          "jrr tolkien",
+          "jrrtolkien",
+          "elves",
+          "middle earth",
+          "LOTR",
+          "one ring",
+          "one ring to rule them all",
+          "silmarillion",
+          "shadowlands",
+          "jailer",
+          "orcs",
+          "horde",
+          "leeroy jenkins",
+          "warhammer"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Sauron VS Lich King (Lord of the Rings VS World of Warcraft) | DEATH BATTLE!",
+          "description": "Get extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\nGo to http://bespokepost.com/deathbattle to get 20% off your first monthly box.\nGo to http://shadyrays.com and use code DEATHBATTLE to get 50% off 2 or more pairs of sunglasses.\n\n- \"One King to Rule Them All\" - Battle Music\nStreaming Link: https://spoti.fi/3hECTwr\nSubscribe to Therewolf Media on YT: https://bit.ly/3KgVdoa\n\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "owCvxNckyScIIoAVajFyiFh-mzc",
+      "id": "9m22bsevQLs",
+      "snippet": {
+        "publishedAt": "2022-11-14T03:47:32Z",
+        "channelId": "UC56D-IHcUvLVFTX_8NpQMXg",
+        "title": "Eating Only ONE Color of Food for 100 Hours! (Black VS Pink)",
+        "description": "My friends compete in one of the hardest challenges I've done! not only are they stuck eating their color, they also have to be stuck in a room of their color!! \n✩new relatable hoodies!✩ http://www.relatableapparel.com \nthumbnail inspo: @Zhong \n\nFollow the Gang!! \nAmp World - ​ @Amp World \nBen Azelart -  @Ben Azelart   \nLexi Rivera - Instagram: @Alexa Rivera \nJeremy Hutchins:  @Jeremy Hutchins  \nAndrew Davila -  @Andrew Davila \nLiv: @Liv Swearingen \nDom Brack - @Dominic Brack \nMason Fulp: @Mason Fulp \nPierson: @pierson \nSydney Smiles: @Smiles Family \n\nhang out with me on social media:\nSnapChat, Add me: TheBrentRivera\nInstagram: @BrentRivera\nTwitter: @BrentRivera\nFacebook: @BrentRivera\nTikTok: @BrentRivera",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9m22bsevQLs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9m22bsevQLs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9m22bsevQLs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9m22bsevQLs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9m22bsevQLs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Brent Rivera",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Eating Only ONE Color of Food for 100 Hours! (Black VS Pink)",
+          "description": "My friends compete in one of the hardest challenges I've done! not only are they stuck eating their color, they also have to be stuck in a room of their color!! \n✩new relatable hoodies!✩ http://www.relatableapparel.com \nthumbnail inspo: @Zhong \n\nFollow the Gang!! \nAmp World - ​ @Amp World \nBen Azelart -  @Ben Azelart   \nLexi Rivera - Instagram: @Alexa Rivera \nJeremy Hutchins:  @Jeremy Hutchins  \nAndrew Davila -  @Andrew Davila \nLiv: @Liv Swearingen \nDom Brack - @Dominic Brack \nMason Fulp: @Mason Fulp \nPierson: @pierson \nSydney Smiles: @Smiles Family \n\nhang out with me on social media:\nSnapChat, Add me: TheBrentRivera\nInstagram: @BrentRivera\nTwitter: @BrentRivera\nFacebook: @BrentRivera\nTikTok: @BrentRivera"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MnrSiB0XrW9VKwUlakxXeiSKGrQ",
+      "id": "oiKm0qo6U4E",
+      "snippet": {
+        "publishedAt": "2022-11-14T23:46:40Z",
+        "channelId": "UC4f1JueVgo5t9HSmobCRPug",
+        "title": "Israel Adesanya Talks UFC 281 Loss, Stoppage, Alex Pereira Rematch, and More - MMA Fighting",
+        "description": "Israel Adesanya discusses how he’s dealing with his loss at UFC 281, his performance, his fight week, fight night, Brad Riddell’s decision to step away, his walkout song, the finish, sparring with Anthony ‘Rumble’ Johnson, when he wants to return, why he wants Alex Pereira next, the reaction from fans, and more.\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UC4f1JueVgo5t9HSmobCRPug/join\n\nSubscribe to MMA Fighting on YouTube: http://goo.gl/dYpsgH\n\nSubscribe to The MMA Hour on iTunes: http://Apple.co/themmahour\nSubscribe to The MMA Hour on Spotify: https://open.spotify.com/show/0NUQhyUeYQcbtHOV10qmbb\nSubscribe to MMA Fighting feed on iTunes: https://podcasts.apple.com/us/podcast/mma-fighting/id320642139\n\nCheck out our full video catalog: http://goo.gl/u8VvLi\nVisit our playlists: http://goo.gl/eFhsvM\nLike MMAF on Facebook: http://goo.gl/uhdg7Z\nFollow on Twitter: http://goo.gl/nOATUI\nRead More: http://www.mmafighting.com\n\nMMA Fighting is your home for exclusive interviews, live shows, and more for one of the world's fastest-growing sports. Get latest news and more here: http://www.mmafighting.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oiKm0qo6U4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oiKm0qo6U4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oiKm0qo6U4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oiKm0qo6U4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oiKm0qo6U4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MMAFightingonSBN",
+        "tags": [
+          "mma fighting",
+          "mixed martial arts",
+          "martial arts",
+          "ultimate fighting championship",
+          "combat sports",
+          "combat tv",
+          "ufc",
+          "mma",
+          "israel adesanya",
+          "alex pereira",
+          "ufc 281",
+          "madison square garden",
+          "new york city",
+          "ariel helwani",
+          "mma hour",
+          "city kickboxing"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Israel Adesanya Talks UFC 281 Loss, Stoppage, Alex Pereira Rematch, and More - MMA Fighting",
+          "description": "Israel Adesanya discusses how he’s dealing with his loss at UFC 281, his performance, his fight week, fight night, Brad Riddell’s decision to step away, his walkout song, the finish, sparring with Anthony ‘Rumble’ Johnson, when he wants to return, why he wants Alex Pereira next, the reaction from fans, and more.\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UC4f1JueVgo5t9HSmobCRPug/join\n\nSubscribe to MMA Fighting on YouTube: http://goo.gl/dYpsgH\n\nSubscribe to The MMA Hour on iTunes: http://Apple.co/themmahour\nSubscribe to The MMA Hour on Spotify: https://open.spotify.com/show/0NUQhyUeYQcbtHOV10qmbb\nSubscribe to MMA Fighting feed on iTunes: https://podcasts.apple.com/us/podcast/mma-fighting/id320642139\n\nCheck out our full video catalog: http://goo.gl/u8VvLi\nVisit our playlists: http://goo.gl/eFhsvM\nLike MMAF on Facebook: http://goo.gl/uhdg7Z\nFollow on Twitter: http://goo.gl/nOATUI\nRead More: http://www.mmafighting.com\n\nMMA Fighting is your home for exclusive interviews, live shows, and more for one of the world's fastest-growing sports. Get latest news and more here: http://www.mmafighting.com"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2QG7O1eH8xb3F7BXBpC3xe50UeQ",
+      "id": "QEGKBYYwTmM",
+      "snippet": {
+        "publishedAt": "2022-11-13T23:14:35Z",
+        "channelId": "UCurvRE5fGcdUgCYWgh-BDsg",
+        "title": "FIGHT HIGHLIGHTS | Floyd Mayweather Jr. vs. Deji",
+        "description": "November 13, 2022 -- Floyd Mayweather vs. Deji fight highlights.\n\nSubscribe to our YouTube channel 👉  http://bit.ly/DAZNBoxingYouTube\n\nDownload the DAZN app now 👉  http://bit.ly/DAZNYoutube\n\nFollow DAZN Boxing On Social Media 👇\nTwitter: https://www.twitter.com/DAZNBoxing\nInstagram: https://www.instagram.com/DAZNBoxing\nFacebook: https://www.facebook.com/DAZN\n\nThe DAZN Boxing Show ► https://bit.ly/3EQ70HN\nDAZN Rewind ► https://bit.ly/32iAaRT\n\n#DAZN #DAZNBoxing #Boxing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QEGKBYYwTmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QEGKBYYwTmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QEGKBYYwTmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QEGKBYYwTmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QEGKBYYwTmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DAZN Boxing",
+        "tags": [
+          "dazn",
+          "boxing",
+          "highlights",
+          "full fight",
+          "ko",
+          "knockout",
+          "top 10",
+          "The DAZN Boxing Show",
+          "Pelea",
+          "Boxeo",
+          "Pugile",
+          "dazn boxing"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "FIGHT HIGHLIGHTS | Floyd Mayweather Jr. vs. Deji",
+          "description": "November 13, 2022 -- Floyd Mayweather vs. Deji fight highlights.\n\nSubscribe to our YouTube channel 👉  http://bit.ly/DAZNBoxingYouTube\n\nDownload the DAZN app now 👉  http://bit.ly/DAZNYoutube\n\nFollow DAZN Boxing On Social Media 👇\nTwitter: https://www.twitter.com/DAZNBoxing\nInstagram: https://www.instagram.com/DAZNBoxing\nFacebook: https://www.facebook.com/DAZN\n\nThe DAZN Boxing Show ► https://bit.ly/3EQ70HN\nDAZN Rewind ► https://bit.ly/32iAaRT\n\n#DAZN #DAZNBoxing #Boxing"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eW3ZL_21dNntUUxqB-rH_MaXzaQ",
+      "id": "C342dfNPCyg",
+      "snippet": {
+        "publishedAt": "2022-11-15T00:24:19Z",
+        "channelId": "UCphqjYZxxzjNbONVmY-0J7Q",
+        "title": "'Wings Over Dallas' Mid Air Collision Report",
+        "description": "LINKS:                                                                       (Correction: 37mm cannon)\nFlight Track Overlay: https://www.youtube.com/watch?v=KHXgjj02anA\nADSB Data: \nB-17: https://globe.adsbexchange.com/?icao=a9ae4a&lat=32.672&lon=-96.878&zoom=14.1&showTrace=2022-11-12&timestamp=1668280914\nP-51: https://globe.adsbexchange.com/?icao=a6e2de&lat=32.666&lon=-96.896&zoom=13.6&showTrace=2022-11-12&leg=4&timestamp=1668280905\nP-63: https://globe.adsbexchange.com/?icao=a8f4c3&lat=32.681&lon=-96.879&zoom=14.1&showTrace=2022-11-12&trackLabels&timestamp=1668280915\nP-63 Walkaround: https://www.youtube.com/watch?v=ruoDK2MlAlg\nPATREON: https://www.patreon.com/user?u=5295000&fan_landing=true\nLearning The Finer Points: https://www.learnthefinerpoints.c\nom/\nTheme: \"Weightless\" Aram Bedrosian\nhttps://www.arambedrosian.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C342dfNPCyg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C342dfNPCyg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C342dfNPCyg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C342dfNPCyg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C342dfNPCyg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "blancolirio",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "'Wings Over Dallas' Mid Air Collision Report",
+          "description": "LINKS:                                                                       (Correction: 37mm cannon)\nFlight Track Overlay: https://www.youtube.com/watch?v=KHXgjj02anA\nADSB Data: \nB-17: https://globe.adsbexchange.com/?icao=a9ae4a&lat=32.672&lon=-96.878&zoom=14.1&showTrace=2022-11-12&timestamp=1668280914\nP-51: https://globe.adsbexchange.com/?icao=a6e2de&lat=32.666&lon=-96.896&zoom=13.6&showTrace=2022-11-12&leg=4&timestamp=1668280905\nP-63: https://globe.adsbexchange.com/?icao=a8f4c3&lat=32.681&lon=-96.879&zoom=14.1&showTrace=2022-11-12&trackLabels&timestamp=1668280915\nP-63 Walkaround: https://www.youtube.com/watch?v=ruoDK2MlAlg\nPATREON: https://www.patreon.com/user?u=5295000&fan_landing=true\nLearning The Finer Points: https://www.learnthefinerpoints.c\nom/\nTheme: \"Weightless\" Aram Bedrosian\nhttps://www.arambedrosian.com"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_6lVSrtE3DtFgeK2G3keQoZPp3A",
+      "id": "DGCSk7aCI-Y",
+      "snippet": {
+        "publishedAt": "2022-11-14T18:00:12Z",
+        "channelId": "UCqYj0YprOiGyBLsmM2LQt_A",
+        "title": "Big Homiie G - Who Got It (Official Video) ft. Finesse2Tymes",
+        "description": "Music video by Big Homiie G performing Who Got It (Official Video). \n\nPre-Save/Order \"Speak Up G\" Mixtape now https://connect.ffm.to/bighomiieg_speakupg \n\nProduced by: Spenn & Phil G\n\nhttp://vevo.ly/iBgG6C",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DGCSk7aCI-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DGCSk7aCI-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DGCSk7aCI-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DGCSk7aCI-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DGCSk7aCI-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BigHomiieGVEVO",
+        "tags": [
+          "Big",
+          "Homiie",
+          "Who",
+          "Got",
+          "(Official",
+          "Video)",
+          "NLess",
+          "Entertainment",
+          "Hip-Hop",
+          "breadgang",
+          "nless"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Big Homiie G - Who Got It (Official Video) ft. Finesse2Tymes",
+          "description": "Music video by Big Homiie G performing Who Got It (Official Video). \n\nPre-Save/Order \"Speak Up G\" Mixtape now https://connect.ffm.to/bighomiieg_speakupg \n\nProduced by: Spenn & Phil G\n\nhttp://vevo.ly/iBgG6C"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SjCn4MlxOI5wMuHLOU-cwNz_4ys",
+      "id": "Z02zptUN8gI",
+      "snippet": {
+        "publishedAt": "2022-11-13T18:00:23Z",
+        "channelId": "UCz9yS18zJGQObwUL_K-ICnw",
+        "title": "KAROL G, Ovy On The Drums - Cairo (Official Video)",
+        "description": "Stream “Cairo” on your favorite platform: \nhttps://kg13.lnk.to/C13!YTD \n\nSubscribe to my YouTube channel here: \nhttps://smarturl.it/SubscribeKarolG \n\nConnect with KAROL G on socials:\nInstagram: https://www.instagram.com/karolg/ \nTwitter: https://twitter.com/karolg \nFacebook: https://www.facebook.com/KarolGOficial \nTikTok: https://www.tiktok.com/@karolg \n\nShop Karol G Merch: https://bit.ly/3REHZp3\nLyrics:\nNo sé si es el alcohol \nLo que me tiene confesando \nEsto que estoy sintiendo desde hace rato\nSe que el amor no estaba en el contrato \nPero te pasa igual yo te lo noto también \n\nJure que no me iba coger de ningún culito \ny aquí me tiene hablándote bonito  \nMis amigas me dicen que eres medio perrito\n lo de bandido fresco yo te lo quito \nDije que solo sexo una vez no repito  \ny ahora quedarme en su cama es mi plan favorito \nno estoy enamora pero falta poquito \nMe tiene diciéndole amor \nTratándolo tierno \nNo me gustaba dormir con nadie ahora si no es con él a mi lao no me duermo \nYo que solo quería una noche para quitarme las ganas que le tengo \nAquí estoy siempre para lo que necesita y cuidándolo cuando está enfermo \nNo sé que me a pasao\nEl encule me ha ganao\nPor ti no tengo ganao\nA todos los he alejao\nEn visto los he dejao\n\nNo quiero saber de ninguno mas\nMe siento bien con lo que tú me das \nTe quedas o te vas\nYa tu veras pero\n\n#KarolG #Cairo #OfficialVideo\n\nMusic video by KAROL G, Ovy On The Drums performing CAIRO. Universal Music Latino; © 2022 UMG Recordings, Inc.\n\nhttp://vevo.ly/my7h3n",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z02zptUN8gI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z02zptUN8gI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z02zptUN8gI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z02zptUN8gI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z02zptUN8gI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KarolGVEVO",
+        "tags": [
+          "karol",
+          "cairo",
+          "cairo karol",
+          "karol cairo",
+          "maldy",
+          "gatubela",
+          "karol gatubela",
+          "gatubela karol",
+          "gatubela maldy",
+          "Provenza",
+          "mami karol",
+          "mami",
+          "200 copas karol",
+          "mami karol becky",
+          "karol becky",
+          "bichota karol",
+          "tusa",
+          "musica",
+          "provenza karol letra",
+          "canciones",
+          "provenza karol",
+          "ocean karol",
+          "el barco karol",
+          "carol",
+          "bichota",
+          "don't be shy",
+          "bad bunny",
+          "canciones de karol",
+          "becky",
+          "200 copas",
+          "música",
+          "karol 200 copas",
+          "plan"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "KAROL G, Ovy On The Drums - Cairo (Official Video)",
+          "description": "Stream “Cairo” on your favorite platform: \nhttps://kg13.lnk.to/C13!YTD \n\nSubscribe to my YouTube channel here: \nhttps://smarturl.it/SubscribeKarolG \n\nConnect with KAROL G on socials:\nInstagram: https://www.instagram.com/karolg/ \nTwitter: https://twitter.com/karolg \nFacebook: https://www.facebook.com/KarolGOficial \nTikTok: https://www.tiktok.com/@karolg \n\nShop Karol G Merch: https://bit.ly/3REHZp3\nLyrics:\nNo sé si es el alcohol \nLo que me tiene confesando \nEsto que estoy sintiendo desde hace rato\nSe que el amor no estaba en el contrato \nPero te pasa igual yo te lo noto también \n\nJure que no me iba coger de ningún culito \ny aquí me tiene hablándote bonito  \nMis amigas me dicen que eres medio perrito\n lo de bandido fresco yo te lo quito \nDije que solo sexo una vez no repito  \ny ahora quedarme en su cama es mi plan favorito \nno estoy enamora pero falta poquito \nMe tiene diciéndole amor \nTratándolo tierno \nNo me gustaba dormir con nadie ahora si no es con él a mi lao no me duermo \nYo que solo quería una noche para quitarme las ganas que le tengo \nAquí estoy siempre para lo que necesita y cuidándolo cuando está enfermo \nNo sé que me a pasao\nEl encule me ha ganao\nPor ti no tengo ganao\nA todos los he alejao\nEn visto los he dejao\n\nNo quiero saber de ninguno mas\nMe siento bien con lo que tú me das \nTe quedas o te vas\nYa tu veras pero\n\n#KarolG #Cairo #OfficialVideo\n\nMusic video by KAROL G, Ovy On The Drums performing CAIRO. Universal Music Latino; © 2022 UMG Recordings, Inc.\n\nhttp://vevo.ly/my7h3n"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lsKArJipIyRficn5hbHHRZLE4tE",
+      "id": "6D_2xU0oZ1w",
+      "snippet": {
+        "publishedAt": "2022-11-14T20:33:36Z",
+        "channelId": "UCR-QYzXrZF8yFarK8wZbHog",
+        "title": "THE TWINS FIRST BIRTHDAY PARTY!",
+        "description": "Come see me on tour!\r \nhttp://www.mirandasings.com\r\n\r\nCheck Out My Merch! - https://fanjoy.co/pages/search-results-page?q=colleen\n\nCome see me on tour! - http://mirandasings.com/default.html\n\nFollow me on all the things! \nTIK TOK - https://www.tiktok.com/@colleen?sourc...\nTwitter - http://www.twitter.com/ColleenB123\nInstagram - http://instagram.com/colleen\nFacebook - https://www.facebook.com/ColleenB1234\nyoutube - http://www.youtube.com/psychosoprano\nsnapchat username - Colleen\n\nSubscribe to my vlog channel! - https://www.youtube.com/c/colleenvlogs\n\nPO Box! \nColleen Ballinger, Miranda Sings, or Kory Desoto\nPO Box 56144\nSherman oaks, ca 91413\n\nFollow me on all the things! \r\nTwitter - http://www.twitter.com/ColleenB123\r\nFacebook - https://www.facebook.com/ColleenB1234\r\nyoutube - http://www.youtube.com/psychosoprano\r\nInstagram - http://instagram.com/colleen\r\nSnapchat - ColleenB123\r\n\r\nBusiness inquiries - msingsbranding@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6D_2xU0oZ1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6D_2xU0oZ1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6D_2xU0oZ1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6D_2xU0oZ1w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6D_2xU0oZ1w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Colleen Ballinger",
+        "tags": [
+          "colleen ballinger",
+          "colleen",
+          "ballinger",
+          "psychosoprano",
+          "miranda sings",
+          "no lipstick",
+          "vlog",
+          "vlogging",
+          "singing",
+          "without lipstick",
+          "comedy",
+          "how to",
+          "tutorial",
+          "silly",
+          "funny",
+          "twins",
+          "birthday",
+          "party",
+          "first birthday",
+          "one year old",
+          "maisy",
+          "Wesley"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "THE TWINS FIRST BIRTHDAY PARTY!",
+          "description": "Come see me on tour!\r \nhttp://www.mirandasings.com\r\n\r\nCheck Out My Merch! - https://fanjoy.co/pages/search-results-page?q=colleen\n\nCome see me on tour! - http://mirandasings.com/default.html\n\nFollow me on all the things! \nTIK TOK - https://www.tiktok.com/@colleen?sourc...\nTwitter - http://www.twitter.com/ColleenB123\nInstagram - http://instagram.com/colleen\nFacebook - https://www.facebook.com/ColleenB1234\nyoutube - http://www.youtube.com/psychosoprano\nsnapchat username - Colleen\n\nSubscribe to my vlog channel! - https://www.youtube.com/c/colleenvlogs\n\nPO Box! \nColleen Ballinger, Miranda Sings, or Kory Desoto\nPO Box 56144\nSherman oaks, ca 91413\n\nFollow me on all the things! \r\nTwitter - http://www.twitter.com/ColleenB123\r\nFacebook - https://www.facebook.com/ColleenB1234\r\nyoutube - http://www.youtube.com/psychosoprano\r\nInstagram - http://instagram.com/colleen\r\nSnapchat - ColleenB123\r\n\r\nBusiness inquiries - msingsbranding@gmail.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iicRsDhDpUPKmDo6YX8PoFC-Mvg",
+      "id": "3eC-tAxVdxM",
+      "snippet": {
+        "publishedAt": "2022-11-14T20:00:01Z",
+        "channelId": "UCPRUgAl_MV9PajsrG_BmT9w",
+        "title": "The \"All American\" Cast Reads Thirst Tweets",
+        "description": "To celebrate All American returning for Season 5, we had the cast — Daniel Ezra, Samantha Logan, and Michael Evans Behling — read some of the filthiest Thirst Tweets we could find. The cast laughed, they choked, and, ultimately, they reconsidered doing this bit in the first place! Watch the video now to be a part of the fun! #AllAmerican #ThirstTweets #buzzfeed \n\nCredits: https://www.buzzfeed.com/bfmp/videos/171908\n\nSubscribe to BuzzFeed Celeb: https://bzfd.it/2kU81Ls\n\nBuzzFeed Celeb\nCelebs + puppies, kittens, thirst tweets, and more = so much yes.\n\nGET MORE BUZZFEED:\nhttps://www.buzzfeed.com\nhttps://www.buzzfeed.com/videos\nhttps://www.youtube.com/buzzfeedvideo\nhttps://www.youtube.com/asis\nhttps://www.youtube.com/buzzfeedmultiplayer\nhttps://www.youtube.com/buzzfeedunsolvednetwork\nhttp://youtube.com/buzzfeedceleb\nhttps://www.youtube.com/perolike\nhttps://www.youtube.com/buzzfeedviolet\nhttps://www.youtube.com/goodful\nhttps://www.youtube.com/nifty\nhttps://www.youtube.com/buzzfeedtasty\nhttps://www.youtube.com/bringme\nhttps://www.youtube.com/abouttoeat\n\nSUBSCRIBE TO BUZZFEED NEWSLETTERS:\nhttps://www.buzzfeed.com/newsletters\n\nMUSIC\nSFX Provided By AudioBlocks\n(https://www.audioblocks.com)\n\n\nVIDEO\nStars shine effect on green screen background animation. Twinkle festive or holiday decoration.\nAnita Chavan/Getty Images",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3eC-tAxVdxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3eC-tAxVdxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3eC-tAxVdxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3eC-tAxVdxM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3eC-tAxVdxM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BuzzFeed Celeb",
+        "tags": [
+          "all american",
+          "buzzfeed celeb",
+          "daniel ezra",
+          "interview",
+          "michael evans behling",
+          "netflix",
+          "samantha logan",
+          "show",
+          "thirst tweets"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The \"All American\" Cast Reads Thirst Tweets",
+          "description": "To celebrate All American returning for Season 5, we had the cast — Daniel Ezra, Samantha Logan, and Michael Evans Behling — read some of the filthiest Thirst Tweets we could find. The cast laughed, they choked, and, ultimately, they reconsidered doing this bit in the first place! Watch the video now to be a part of the fun! #AllAmerican #ThirstTweets #buzzfeed \n\nCredits: https://www.buzzfeed.com/bfmp/videos/171908\n\nSubscribe to BuzzFeed Celeb: https://bzfd.it/2kU81Ls\n\nBuzzFeed Celeb\nCelebs + puppies, kittens, thirst tweets, and more = so much yes.\n\nGET MORE BUZZFEED:\nhttps://www.buzzfeed.com\nhttps://www.buzzfeed.com/videos\nhttps://www.youtube.com/buzzfeedvideo\nhttps://www.youtube.com/asis\nhttps://www.youtube.com/buzzfeedmultiplayer\nhttps://www.youtube.com/buzzfeedunsolvednetwork\nhttp://youtube.com/buzzfeedceleb\nhttps://www.youtube.com/perolike\nhttps://www.youtube.com/buzzfeedviolet\nhttps://www.youtube.com/goodful\nhttps://www.youtube.com/nifty\nhttps://www.youtube.com/buzzfeedtasty\nhttps://www.youtube.com/bringme\nhttps://www.youtube.com/abouttoeat\n\nSUBSCRIBE TO BUZZFEED NEWSLETTERS:\nhttps://www.buzzfeed.com/newsletters\n\nMUSIC\nSFX Provided By AudioBlocks\n(https://www.audioblocks.com)\n\n\nVIDEO\nStars shine effect on green screen background animation. Twinkle festive or holiday decoration.\nAnita Chavan/Getty Images"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mC1YLIG-8N3MSLFfaQCCkTx9Lh0",
+      "id": "nvTM03_8elE",
+      "snippet": {
+        "publishedAt": "2022-11-14T21:19:52Z",
+        "channelId": "UCe0DNp0mKMqrYVaTundyr9w",
+        "title": "An Elden Ring Story ► The Blessing of Despair",
+        "description": "►Support the channel with Posters & Apparel at https://vaatividya.com/\n\nI had a lot of commissioned help with this project - please follow my collaborators below!\n►Mispap1 was my project partner, and their cinematic videos can be watched here: https://www.youtube.com/user/stealthkillification\n►John Devlin helped with storyboarding and drawing the artwork for the animated sequence at the beginning of the video https://www.instagram.com/devlinart/?hl=en\n►Xavier Lesieu was responsible for animating the sequence at the beginning - incredible work: https://www.instagram.com/raessyh/?hl=en\n►Arcane Bard Audio created the custom Harpy Orchestration and the music for the demigods: https://www.youtube.com/user/TheFlyingJamJar\n►Ricepirate, for voice acting the cut dialogue of the Shanehaight Noble: https://twitter.com/RicepirateMick\n►Zullie the Witch, for helping us to implement the Blessing of Despair skybox: https://www.youtube.com/c/ZullietheWitch\n►Fieldhouz, for the \"thrones\" animation: https://www.youtube.com/c/Fieldhouz\n►Alex Roe, for the feature of their song \"Remembrance\" https://www.youtube.com/c/roetaka\n►Quelaag, for providing placeholder Omen Child VO: https://www.youtube.com/user/Quelaag\n\n\n\nTIMESTAMPS\n00:00 Prepare to cry\n28:51 Cry a lot\n\nKINDLE THE CHANNEL [become a patron]\n►http://www.patreon.com/vaatividya\n\nSPECIAL THANKS TO\n►TheParryGod, for Secrets editing and footage - https://www.youtube.com/user/xricsx\n►Mispap1, for Lore / Prepare to Cry editing and footage - https://bit.ly/3OK7y7r\n\nPLAYLISTS\n►My Best Videos: http://bit.ly/2oMp66a\n►Elden Ring Prepare to Cry: https://bit.ly/3ApeG2N\n►Elden Ring Lore: https://bit.ly/3q3saNf\n►Elden Ring Secrets: https://bit.ly/3RdCNbQ\n►Elden Ring News: https://bit.ly/2ZkDV2d\n►Sekiro Lore: https://bit.ly/2KGEzD1\n►Sekiro Secrets: https://bit.ly/2IsObhW\n►Dark Souls 3 Lore: http://bit.ly/2n0bU13\n►Dark Souls 3 News: http://bit.ly/1NQbgbW\n►Bloodborne Lore: http://bit.ly/1X9doOQ\n►Demon's Souls Lore: http://bit.ly/16mIF86\n►Dark Souls Remastered Lore: http://bit.ly/13x6nNs\n►Dark Souls 2 Lore: http://bit.ly/1dedWjI\n►Souls-like: http://bit.ly/1xCPDnu\n\n\nSOCIAL\n►Follow me on Twitter: https://twitter.com/VaatiVidya\n►Follow me on Tumblr: http://vaatividya.tumblr.com/\n►Follow me on Twitch.tv: http://www.twitch.tv/vaatividya\n►Follow me on Facebook: https://www.facebook.com/Vaatividya\n►Follow me on Patreon: http://www.patreon.com/vaatividya\n►Join me on Discord: http://discord.gg/vaatividya\n\n\nTHUMBNAIL ART\n►Sebastian Franchini\n\n\nMUSIC (most is royalty-free or licensed from Epidemic Sound. Sign up or browse here: (https://www.epidemicsound.com/referral/j49549/)\n\nES_“In Pieces” - by Madison York (Animated Intro)\n\n“Symphony of Despair”- by Arcane Bard Audio (Demigod Introductions) \n\nElden Ring OST:  “Margit, the Fell Omen” by Tsukasa Saitoh (Arriving at Stormveil)\n\nES_”Queen of Crystals” - by Edward Joe Myers (Traveling to Liurna)\n\nES_”The Cold (STEMS MELODY)” - Alec Slayn. (Meeting Boggart)\n\n“Flowing Mysterious Atmosphere” - by Crypt of Insomnia (Meeting Dung Eater)\n\n “The Darkest Day” by Jimmy Svensson  (The Dung Eater)\n\nES_”Rivers Run Red” - by Christoffer Moe Ditlevsen (Slaying Margit’s Decoy)\n\n\n“Flowing Mysterious Atmosphere” - by Crypt of Insomnia (Boggart talks about the Dung Eater)\n\nElden Ring OST: “Altus Plateau” - by Shoi Miyazawa (Entering the Royal Capital)\n\nElden Ring OST: “Leyndell, Royal Capital” - by Yuka Kitamura (Meeting the Noble of HouseShanehaight)\n\nElden Ring OST: “Subterranean Shunning-Grounds” - by Shoi Miyazawa (The Sewers Below)\n\n“Mystery Clock Suspense” - by Crypt of Insomnia (Setting the Dung Eater Free)\n\nElden Ring OST:  “Catacombs” - by Yuka Kitamura (Boggart’s fate)\n\n“Delusion (voice & instrumental version)” - by Crypt of Insomnia\n\n“Viking Formation (shaman version)” - by Crypt of Insomnia\n\n“Lendyll Flute Song” - Elden Ring Ambience\n\n“Elden Ring Main Theme & The Final Battle Remix - Remembrance” by Alex Roe\n\nElden Ring OST:  “Morgott, the Omen King”- by Tsukasa Saitoh\n\nES_”Appeased Soundscape 01”- by August Wilhelmsson\n\n“Dark Choir Soundscape (full version)” - by  AllenGrey\n\nES_”In Remembrance” - by  Silver Maple\n\nES_”It's Dark Outside” - by  Mary Riddle\n\n“Summoning Ritual” - by Crypt of Insomnia\n\n“Scorched Earth” - by Crypt of Insomnia\n\n\nPATRONS\n►I'd like to give sincere thanks to all my patrons - your contributions have changed the course of my life, allowing me to put more emphasis on video production in the future.\n\n\n►Special thanks to Soul of Cinder-tier Patrons: John, Mihaf, Matthew, Colin, budhawillyboy, Chattan, Aritz, Erlend, Michael, Finbarwrong, David, AmazinShawn, Aidan, Joshua, Ryan, Cat, Lucian, Nicholas, HugDucks, Kyle, Xavier, Justin, Andreas, Ian, Xensvet, Mike, Loak, Morningstar, Morgan, Vanguard, Ricakardsson, Seleiful, Dain, Diablo, Chase, Andronikos, Nezzly, Rune, Thomas, Jacob, One Unimpressed Boi, Matthew, Aj, GoldenSunX, Yousif, sean, Croonz, ndr.alng, Meistermuall, Armand, Albert, Liam, AJ, Aishlinn, Reiftyr, nicolas, and Ricky.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nvTM03_8elE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nvTM03_8elE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nvTM03_8elE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nvTM03_8elE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nvTM03_8elE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "VaatiVidya",
+        "tags": [
+          "guide",
+          "walkthrough",
+          "lore",
+          "dark",
+          "souls",
+          "dlc",
+          "bloodborne",
+          "story",
+          "vaatividya",
+          "vaati",
+          "vidya",
+          "from",
+          "software",
+          "sekiro",
+          "combat",
+          "elden",
+          "ring",
+          "demon's souls",
+          "remake",
+          "ps5",
+          "playstation 5",
+          "queen marika",
+          "demigods",
+          "great runes",
+          "radagon",
+          "godwyn",
+          "mohg",
+          "morgott",
+          "godrick",
+          "ranni",
+          "rykard",
+          "radahn",
+          "malenia",
+          "miquella",
+          "melina",
+          "omen",
+          "dragons",
+          "margitt",
+          "rennala",
+          "caria",
+          "liurnia",
+          "leyndell",
+          "elden beast",
+          "gideon",
+          "empyrean",
+          "scarlet rot",
+          "outer god",
+          "demi",
+          "gods",
+          "dung eater",
+          "animation",
+          "crucible",
+          "knight",
+          "misbegotten",
+          "shattering",
+          "cinematic",
+          "ending",
+          "cutscene",
+          "prepare to cry"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "An Elden Ring Story ► The Blessing of Despair",
+          "description": "►Support the channel with Posters & Apparel at https://vaatividya.com/\n\nI had a lot of commissioned help with this project - please follow my collaborators below!\n►Mispap1 was my project partner, and their cinematic videos can be watched here: https://www.youtube.com/user/stealthkillification\n►John Devlin helped with storyboarding and drawing the artwork for the animated sequence at the beginning of the video https://www.instagram.com/devlinart/?hl=en\n►Xavier Lesieu was responsible for animating the sequence at the beginning - incredible work: https://www.instagram.com/raessyh/?hl=en\n►Arcane Bard Audio created the custom Harpy Orchestration and the music for the demigods: https://www.youtube.com/user/TheFlyingJamJar\n►Ricepirate, for voice acting the cut dialogue of the Shanehaight Noble: https://twitter.com/RicepirateMick\n►Zullie the Witch, for helping us to implement the Blessing of Despair skybox: https://www.youtube.com/c/ZullietheWitch\n►Fieldhouz, for the \"thrones\" animation: https://www.youtube.com/c/Fieldhouz\n►Alex Roe, for the feature of their song \"Remembrance\" https://www.youtube.com/c/roetaka\n►Quelaag, for providing placeholder Omen Child VO: https://www.youtube.com/user/Quelaag\n\n\n\nTIMESTAMPS\n00:00 Prepare to cry\n28:51 Cry a lot\n\nKINDLE THE CHANNEL [become a patron]\n►http://www.patreon.com/vaatividya\n\nSPECIAL THANKS TO\n►TheParryGod, for Secrets editing and footage - https://www.youtube.com/user/xricsx\n►Mispap1, for Lore / Prepare to Cry editing and footage - https://bit.ly/3OK7y7r\n\nPLAYLISTS\n►My Best Videos: http://bit.ly/2oMp66a\n►Elden Ring Prepare to Cry: https://bit.ly/3ApeG2N\n►Elden Ring Lore: https://bit.ly/3q3saNf\n►Elden Ring Secrets: https://bit.ly/3RdCNbQ\n►Elden Ring News: https://bit.ly/2ZkDV2d\n►Sekiro Lore: https://bit.ly/2KGEzD1\n►Sekiro Secrets: https://bit.ly/2IsObhW\n►Dark Souls 3 Lore: http://bit.ly/2n0bU13\n►Dark Souls 3 News: http://bit.ly/1NQbgbW\n►Bloodborne Lore: http://bit.ly/1X9doOQ\n►Demon's Souls Lore: http://bit.ly/16mIF86\n►Dark Souls Remastered Lore: http://bit.ly/13x6nNs\n►Dark Souls 2 Lore: http://bit.ly/1dedWjI\n►Souls-like: http://bit.ly/1xCPDnu\n\n\nSOCIAL\n►Follow me on Twitter: https://twitter.com/VaatiVidya\n►Follow me on Tumblr: http://vaatividya.tumblr.com/\n►Follow me on Twitch.tv: http://www.twitch.tv/vaatividya\n►Follow me on Facebook: https://www.facebook.com/Vaatividya\n►Follow me on Patreon: http://www.patreon.com/vaatividya\n►Join me on Discord: http://discord.gg/vaatividya\n\n\nTHUMBNAIL ART\n►Sebastian Franchini\n\n\nMUSIC (most is royalty-free or licensed from Epidemic Sound. Sign up or browse here: (https://www.epidemicsound.com/referral/j49549/)\n\nES_“In Pieces” - by Madison York (Animated Intro)\n\n“Symphony of Despair”- by Arcane Bard Audio (Demigod Introductions) \n\nElden Ring OST:  “Margit, the Fell Omen” by Tsukasa Saitoh (Arriving at Stormveil)\n\nES_”Queen of Crystals” - by Edward Joe Myers (Traveling to Liurna)\n\nES_”The Cold (STEMS MELODY)” - Alec Slayn. (Meeting Boggart)\n\n“Flowing Mysterious Atmosphere” - by Crypt of Insomnia (Meeting Dung Eater)\n\n “The Darkest Day” by Jimmy Svensson  (The Dung Eater)\n\nES_”Rivers Run Red” - by Christoffer Moe Ditlevsen (Slaying Margit’s Decoy)\n\n\n“Flowing Mysterious Atmosphere” - by Crypt of Insomnia (Boggart talks about the Dung Eater)\n\nElden Ring OST: “Altus Plateau” - by Shoi Miyazawa (Entering the Royal Capital)\n\nElden Ring OST: “Leyndell, Royal Capital” - by Yuka Kitamura (Meeting the Noble of HouseShanehaight)\n\nElden Ring OST: “Subterranean Shunning-Grounds” - by Shoi Miyazawa (The Sewers Below)\n\n“Mystery Clock Suspense” - by Crypt of Insomnia (Setting the Dung Eater Free)\n\nElden Ring OST:  “Catacombs” - by Yuka Kitamura (Boggart’s fate)\n\n“Delusion (voice & instrumental version)” - by Crypt of Insomnia\n\n“Viking Formation (shaman version)” - by Crypt of Insomnia\n\n“Lendyll Flute Song” - Elden Ring Ambience\n\n“Elden Ring Main Theme & The Final Battle Remix - Remembrance” by Alex Roe\n\nElden Ring OST:  “Morgott, the Omen King”- by Tsukasa Saitoh\n\nES_”Appeased Soundscape 01”- by August Wilhelmsson\n\n“Dark Choir Soundscape (full version)” - by  AllenGrey\n\nES_”In Remembrance” - by  Silver Maple\n\nES_”It's Dark Outside” - by  Mary Riddle\n\n“Summoning Ritual” - by Crypt of Insomnia\n\n“Scorched Earth” - by Crypt of Insomnia\n\n\nPATRONS\n►I'd like to give sincere thanks to all my patrons - your contributions have changed the course of my life, allowing me to put more emphasis on video production in the future.\n\n\n►Special thanks to Soul of Cinder-tier Patrons: John, Mihaf, Matthew, Colin, budhawillyboy, Chattan, Aritz, Erlend, Michael, Finbarwrong, David, AmazinShawn, Aidan, Joshua, Ryan, Cat, Lucian, Nicholas, HugDucks, Kyle, Xavier, Justin, Andreas, Ian, Xensvet, Mike, Loak, Morningstar, Morgan, Vanguard, Ricakardsson, Seleiful, Dain, Diablo, Chase, Andronikos, Nezzly, Rune, Thomas, Jacob, One Unimpressed Boi, Matthew, Aj, GoldenSunX, Yousif, sean, Croonz, ndr.alng, Meistermuall, Armand, Albert, Liam, AJ, Aishlinn, Reiftyr, nicolas, and Ricky."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sKPtYprgmRrRnfGBn6TFtQVTZrc",
+      "id": "GQOsxMZDcgw",
+      "snippet": {
+        "publishedAt": "2022-11-14T18:06:34Z",
+        "channelId": "UC4ZUNBlvzlWWRWzz6-vTg9A",
+        "title": "Rocket Man",
+        "description": "Provided to YouTube by DistroKid\n\nRocket Man · Boosie Badazz\n\nRocket Man\n\n℗ Bad Azz Music Syndicate\n\nReleased on: 2022-11-14\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GQOsxMZDcgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GQOsxMZDcgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GQOsxMZDcgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GQOsxMZDcgw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GQOsxMZDcgw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Boosie Badazz - Topic",
+        "tags": ["Boosie Badazz", "Rocket Man"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Rocket Man",
+          "description": "Provided to YouTube by DistroKid\n\nRocket Man · Boosie Badazz\n\nRocket Man\n\n℗ Bad Azz Music Syndicate\n\nReleased on: 2022-11-14\n\nAuto-generated by YouTube."
+        }
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}

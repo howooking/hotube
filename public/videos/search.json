@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "-NIPb8avMRAflnxk4VVKfWH50_E",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "odKZR2Z5ZZv0QAXkVSbthsMXD50",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "icnTEAk03IQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-14T13:43:38Z",
+        "channelId": "UC30JIhyJBA96T62p4poxg0Q",
+        "title": "Cat Scares Kitten, Kitten Gets Startled",
+        "description": "Introducing Kitten To My Cats Cats In The Video : Mimi (White & Ginger Domestic Shorthair Male Cat), Charlie (Orange British ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/icnTEAk03IQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/icnTEAk03IQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/icnTEAk03IQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tom and Mimi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-14T13:43:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NSoXeKSaESFSC3tukovd5Sbt4R8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xZsuktywJuk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T13:56:00Z",
+        "channelId": "UCV-CZHawVtjTeWxXgwSfQiQ",
+        "title": "Huge cat and cute kitten | SAVI",
+        "description": "Huge cat and cute kitten | SAVI Production Music courtesy of Epidemic Sound!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xZsuktywJuk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xZsuktywJuk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xZsuktywJuk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SAVI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-15T13:56:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IFgbwD8uN7Rrl0723n5XO2okLPo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jANE8lpoj2c"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-15T13:49:12Z",
+        "channelId": "UC9cH5HQBojNzPCaTLovivbw",
+        "title": "[vlog] #먼치킨 #새끼고양이와 #포메라니안 강아지 같이 키우기 - 합사 첫날부터 친해지기까지",
+        "description": "저희 집 새 식구가 된 먼치킨 새끼고양이 '소설이'와 7개월된 포메라니안 강아지 '소운이' 같이 키우기를 위해서 합사 첫날부터 7일간의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jANE8lpoj2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jANE8lpoj2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jANE8lpoj2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KiSH-Log 키쉬의 브이로그",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-15T13:49:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Od-Kt-7pUYu1ezEb7RYn59d2eQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l2-SFz60U2E"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-14T11:00:29Z",
+        "channelId": "UCEbkQ7VerPHjPChFwfDyekQ",
+        "title": "What Happens When a Rescued Kitten Wants to Get Close to a Big Cat │ Episode.5",
+        "description": "kitten #cat What Happens When a Rescued Kitten Wants to Get Close to a Big Cat │ Episode.5 □ catxuni@gmail.com Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l2-SFz60U2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l2-SFz60U2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l2-SFz60U2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ninifam 니니고양이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-14T11:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nVoRUB4QJJ9rdNNzSQz0sHyp8rk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U-K0MZp75Jk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-14T10:28:37Z",
+        "channelId": "UC30JIhyJBA96T62p4poxg0Q",
+        "title": "New Kitten Meets Cat For The First Time (3)",
+        "description": "Introducing Kitten To My Cat For The First Time Cats In The Video : Mimi (White & Ginger Domestic Shorthair Male Cat) & Charlie ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U-K0MZp75Jk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U-K0MZp75Jk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U-K0MZp75Jk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tom and Mimi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-14T10:28:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "558RogvKlDsge8HnFhT2j4YyI-c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oBGKBJA2lWU"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-14T11:00:29Z",
+        "channelId": "UCBbT9lgavJ44vNs0Vb_hlqA",
+        "title": "The reason why a kitten wakes up and cries endlessly",
+        "description": "kitten #cat #kitty Donate for Kitten - http://paypal.me/conifam - - - - - - - - I N S T A ➜ http://instagram.com/conifam F A C E B O O K ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oBGKBJA2lWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oBGKBJA2lWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oBGKBJA2lWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코니tv conitv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-14T11:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bFAoaT763nr5CnirtYd6aE8lXqQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FgydR-ts5L0"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T07:12:24Z",
+        "channelId": "UC30JIhyJBA96T62p4poxg0Q",
+        "title": "New Kitten Meets Cat For The First Time",
+        "description": "Introducing Kitten To Our Oldest Cat For The First Time Cats In The Video : Tom (Black & White Domestic Shorthair Male) & New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FgydR-ts5L0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FgydR-ts5L0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FgydR-ts5L0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tom and Mimi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T07:12:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7lCxkb9iS7kNcHwdHuVAJbi0h18",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5ohBaD4L-po"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T11:16:03Z",
+        "channelId": "UC30JIhyJBA96T62p4poxg0Q",
+        "title": "Kitten politely asking to get petted",
+        "description": "My New Male British Shorthair Kitten Demanding Attention ネコ, બિલાડી, 猫, kot, 貓, বিড়াল, կատու, mačka, gat, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5ohBaD4L-po/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5ohBaD4L-po/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5ohBaD4L-po/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tom and Mimi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T11:16:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PNP8JElvPqqAw2Gxz6vgWNJHMLk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WBRWnGOMe8Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T09:00:16Z",
+        "channelId": "UCgt23sm6HOIHyzbclx1S-Hg",
+        "title": "I found kitten Kiki to be dexterous",
+        "description": "This is a sub-channel of Tiny Kitten →https://youtube.com/channel/UCtZ8w9jJUn5hoGhT0QxdzpQ □About Kitten Kiki's heart ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WBRWnGOMe8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WBRWnGOMe8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WBRWnGOMe8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lazy Kitten",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T09:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G1AuWhMc8zQpTfFDBVMrXzkRJ0w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xj1Cf8_FThk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T03:18:24Z",
+        "channelId": "UC0IBj2m20n8ZwtDuTm7jHVw",
+        "title": "Cutest Mom And Kitten Ever",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xj1Cf8_FThk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xj1Cf8_FThk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xj1Cf8_FThk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "pet is life",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-15T03:18:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "agluGp8TJsFblDOGbPLaeyIgpPM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "juddO3i58Gs"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-16T13:00:02Z",
+        "channelId": "UCPIvT-zcQl2H0vabdXJGcpg",
+        "title": "13 Funny Kittens Video Compilation 2016",
+        "description": "From kittens playing checkers, to kittens playing with toothbrushes, enjoy 13 funny kittens in this pet video compilation. The Pet ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/juddO3i58Gs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/juddO3i58Gs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/juddO3i58Gs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Pet Collective",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-16T13:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T9gTN5E3SULG6Q0__UpMIJVvNBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ddwf-nuD4wg"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T03:00:16Z",
+        "channelId": "UCtZ8w9jJUn5hoGhT0QxdzpQ",
+        "title": "Kitten Kiki seems to be afraid of having her nails cut",
+        "description": "About Kitten Kiki's heart problem ① (2022/06/16) →https://youtu.be/csNeyfw_-BA □About Kitten Kiki's heart problem ② ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ddwf-nuD4wg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ddwf-nuD4wg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ddwf-nuD4wg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tiny Kitten",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T03:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ESO2rohydeAq0LtzHsA6Gm6NUKE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vffvl-X2Dg8"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T16:31:53Z",
+        "channelId": "UC30JIhyJBA96T62p4poxg0Q",
+        "title": "New Kitten Meets Cat For The First Time (2)",
+        "description": "Introducing Kitten To My Cat For The First Time Cats In The Video : Prince (Grey British Shorthair Male) & Charlie (Orange British ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vffvl-X2Dg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vffvl-X2Dg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vffvl-X2Dg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tom and Mimi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T16:31:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PFDH9GjYymTeKYqovytlABD7Hsk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8_sluWD7daM"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-14T15:00:11Z",
+        "channelId": "UC9c02Qw8ryDIwfPCHBZ_1Fg",
+        "title": "Tiny kitten was left in a box for 3 days hungry and alone",
+        "description": "Tiny kitten was left in a box for 3 days hungry and alone Subscribe: http://bit.ly/JMCsubscribe Courtesy : 1/ Katies Kittens ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8_sluWD7daM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8_sluWD7daM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8_sluWD7daM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Julia Modas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-14T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5P-w32dfeoPDjx7CAvejA1guELQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "el75B2qosBQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-11T03:00:27Z",
+        "channelId": "UCtZ8w9jJUn5hoGhT0QxdzpQ",
+        "title": "I was playing with kitten Kiki, but the daddy cat came...",
+        "description": "About Kitten Kiki's heart problem ① (2022/06/16) →https://youtu.be/csNeyfw_-BA □About Kitten Kiki's heart problem ② ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/el75B2qosBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/el75B2qosBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/el75B2qosBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tiny Kitten",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-11T03:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YocwgnFaTWrq09goFPDh7qy5EDs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZjstMvP7Ksk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-11T12:30:11Z",
+        "channelId": "UCyg57hq-Vt4LLyyb_2Ck_5g",
+        "title": "The kitten got tired of playing with his owner",
+        "description": "Thank you for watching. This channel is Tiny Kitten's clipping channel✨ We are uploading unpublished videos that could not be ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZjstMvP7Ksk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZjstMvP7Ksk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZjstMvP7Ksk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clipping Kitten",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-11T12:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5ioAWVHB59fHEK9WhkTlCjMlvsY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z3REgPx9TDw"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T13:00:30Z",
+        "channelId": "UCyg57hq-Vt4LLyyb_2Ck_5g",
+        "title": "Kitten seem to love their owners somehow",
+        "description": "Thank you for watching. This channel is Tiny Kitten's clipping channel✨ We are uploading unpublished videos that could not be ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z3REgPx9TDw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z3REgPx9TDw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z3REgPx9TDw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clipping Kitten",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T13:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FmwogXrxyOoWWSFZX6JWbDixfBA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SB-qEYVdvXA"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-19T02:00:25Z",
+        "channelId": "UCq5hgY37WAryZCwmehDyCaQ",
+        "title": "So many cute kittens videos compilation 2018",
+        "description": "Bravecto #anipetshop ✈Shop Pet Medicines : https://anipetshop.com ▻Worldwide FREE Shipping ▻No RX Required ️  Buy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SB-qEYVdvXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SB-qEYVdvXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SB-qEYVdvXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Funny Videos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-19T02:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hCM-vlzbdQb7F_8A8wfh7PmLHZc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LUce4I0ZX5Q"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T05:30:03Z",
+        "channelId": "UC_6TpaXzCHZBTEs7oHLPXYA",
+        "title": "Little Kitten Preschool Adventure Educational Games -Play Fun Cute Kitten Pet Care Learning IOS #645",
+        "description": "Little Kitten Preschool - Early learning for children- Little Kitten & Friends - Learn with the cutest cat! By Fox and Sheep GmbH A ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LUce4I0ZX5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LUce4I0ZX5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LUce4I0ZX5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Машины Машинки",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T05:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kOlYL937CveAvSlZL4WJtCUTjNM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zJFfaWrVhdI"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-05T11:30:12Z",
+        "channelId": "UCGAuuxNtcQ6E4ngJKCFRnOw",
+        "title": "【 Spam This Movie to Who Doesn&#39;t Like Cat !!】 Kitten Grow Complete Different in 100 Days",
+        "description": "Mom cat Belly gives birth to two kittens Crispy and Cream on May 13th, 2020. From cute baby kittens to playful teenage cats, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zJFfaWrVhdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zJFfaWrVhdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zJFfaWrVhdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lucky Pawison",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-05T11:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1OOzrg1Ztg7aNS4DpHzptQgxwps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nZODAXlTv4E"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-16T08:00:05Z",
+        "channelId": "UC22go5LdQEw-iDuxFb4C0hw",
+        "title": "구해줘 ㅣ &quot;SAVE ME!&quot; Rescue This Kitten Stuck In Narrow Pipe With No Exit",
+        "description": "5일째 사방이 꽉 막힌 기둥에서 들리는 울음소리.. 울음 소리의 정체는 다름아닌 아기고양이.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nZODAXlTv4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nZODAXlTv4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nZODAXlTv4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS TV동물농장x애니멀봐",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-16T08:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mhVpq9Xl6YJa6AcJfWmD9EXB8Oo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sd_YFt0Ragk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T12:41:53Z",
+        "channelId": "UCV-CZHawVtjTeWxXgwSfQiQ",
+        "title": "Kitten Bantik and cat Murka",
+        "description": "Kitten Bantik and cat Murka! Production Music courtesy of Epidemic Sound!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sd_YFt0Ragk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sd_YFt0Ragk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sd_YFt0Ragk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SAVI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-15T12:41:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dDLvxW189w8Gv-toWkNPvQxig6U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MQqjiTFG8Js"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T11:00:10Z",
+        "channelId": "UCBbT9lgavJ44vNs0Vb_hlqA",
+        "title": "My kitten standing next to my face waiting for me to wake up",
+        "description": "kitten #cat #kitty Donate for Kitten - http://paypal.me/conifam - - - - - - - - I N S T A ➜ http://instagram.com/conifam F A C E B O O K ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MQqjiTFG8Js/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MQqjiTFG8Js/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MQqjiTFG8Js/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코니tv conitv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T11:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7xf5nrBiWBxmI2RfmpNaIYD9WII",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DkCFmfM52mk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-12T12:00:08Z",
+        "channelId": "UC5VvB6tmC4lu_WCx7hE0PZA",
+        "title": "How My Foster Kittens Wake Up",
+        "description": "Just a cute video to show how temperature-sensitive kittens are! Learn how to keep kittens warm at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DkCFmfM52mk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DkCFmfM52mk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DkCFmfM52mk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kitten Lady",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-12T12:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qFz3K6N7xDEsea6FL6ouISyUkds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2_w-vOR0TuE"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-28T04:53:33Z",
+        "channelId": "UC5VvB6tmC4lu_WCx7hE0PZA",
+        "title": "Learn How Baby Kittens Grow: 0-8 Weeks!",
+        "description": "In this adorable and information-packed video, I'll teach you everything you need to know about how to determine a kitten's age, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2_w-vOR0TuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2_w-vOR0TuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2_w-vOR0TuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kitten Lady",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-28T04:53:33Z"
+      }
+    }
+  ]
+}
